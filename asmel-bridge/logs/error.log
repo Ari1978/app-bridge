@@ -1,0 +1,572 @@
+[2026-04-21T13:52:23.128Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T13:52:53.133Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T13:55:12.764Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T13:55:42.772Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T13:56:12.786Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T13:56:42.797Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T13:57:12.808Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T13:58:07.236Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T13:58:37.240Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T13:59:07.241Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T13:59:37.252Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:00:07.254Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:00:37.263Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:01:07.265Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:01:37.265Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:02:17.866Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:02:46.696Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:04:12.150Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:04:42.115Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:05:12.115Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:05:42.128Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:35:09.682Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:36:18.066Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:36:48.030Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:37:18.029Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:37:48.076Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:41:50.982Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:42:20.952Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:42:50.953Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:43:20.957Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:46:30.317Z] ERROR 💥 ERROR GENERAL SYNC "timeout of 30000ms exceeded"
+[2026-04-21T14:46:30.317Z] ERROR Error cerrando conexión {}
+[2026-04-21T14:47:50.153Z] ERROR Error cerrando conexión {}
+[2026-04-21T14:48:25.617Z] ERROR Error cerrando conexión {}
+[2026-04-21T14:53:38.785Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:39.437Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:40.092Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:40.717Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:41.355Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:41.979Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:42.649Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:43.273Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:43.898Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:44.535Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:45.178Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:45.845Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:46.503Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9e0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:47.144Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9ec","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:47.795Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:48.419Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:49.043Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9fe","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:49.698Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca04","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:50.457Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:51.147Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:51.811Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca14","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:52.447Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca1a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:53.085Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca20","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:53.712Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca32","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:54.349Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca38","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:54.972Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca3e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:55.592Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca44","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:56.218Z] ERROR ❌ Error empresa {"empresaId":"69de974872d800e7f7af26e8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:56.838Z] ERROR ❌ Error empresa {"empresaId":"69de987271aea2c5abdd8e5d","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:57.464Z] ERROR ❌ Error empresa {"empresaId":"69e0d198792cafe9f987e5a0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:58.584Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcbb","numero":"FAC-001490","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:59.220Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcc2","numero":"FAC-001491","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:59.845Z] ERROR ❌ Error factura {"facturaId":"69e78f4f169525128f3dbcc8","numero":"FAC-001492","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:00.469Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcce","numero":"FAC-001493","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:01.094Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcd4","numero":"FAC-001494","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:01.717Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce3","numero":"FAC-001495","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:02.371Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce9","numero":"FAC-001496","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:02.992Z] ERROR ❌ Error factura {"facturaId":"69e78f54169525128f3dbcf3","numero":"FAC-001497","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:03.616Z] ERROR ❌ Error factura {"facturaId":"69e78f5a169525128f3dbd2c","numero":"FAC-001498","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:03.617Z] ERROR Error cerrando conexión {}
+[2026-04-21T14:54:08.267Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:08.888Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:09.529Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:10.149Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:10.778Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:11.413Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:12.032Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:12.656Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:13.280Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:13.903Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:14.560Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:15.184Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:15.808Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9e0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:16.435Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9ec","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:17.043Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:17.665Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:18.322Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9fe","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:18.949Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca04","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:19.571Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:20.197Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:20.913Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca14","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:21.523Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca1a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:22.134Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca20","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:22.741Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca32","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:23.346Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca38","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:23.973Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca3e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:24.596Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca44","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:25.221Z] ERROR ❌ Error empresa {"empresaId":"69de974872d800e7f7af26e8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:25.831Z] ERROR ❌ Error empresa {"empresaId":"69de987271aea2c5abdd8e5d","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:26.455Z] ERROR ❌ Error empresa {"empresaId":"69e0d198792cafe9f987e5a0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:27.533Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcbb","numero":"FAC-001490","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:28.154Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcc2","numero":"FAC-001491","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:28.762Z] ERROR ❌ Error factura {"facturaId":"69e78f4f169525128f3dbcc8","numero":"FAC-001492","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:29.387Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcce","numero":"FAC-001493","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:29.995Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcd4","numero":"FAC-001494","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:30.615Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce3","numero":"FAC-001495","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:31.229Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce9","numero":"FAC-001496","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:31.833Z] ERROR ❌ Error factura {"facturaId":"69e78f54169525128f3dbcf3","numero":"FAC-001497","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:32.472Z] ERROR ❌ Error factura {"facturaId":"69e78f5a169525128f3dbd2c","numero":"FAC-001498","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:32.473Z] ERROR Error cerrando conexión {}
+[2026-04-21T14:54:38.248Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:38.901Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:39.538Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:40.160Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:40.766Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:41.390Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:41.999Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:20.253Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:20.861Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:21.467Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:22.059Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:22.658Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:23.262Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:23.856Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:24.522Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:25.118Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:25.725Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:26.320Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:26.921Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:27.522Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9e0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:28.114Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9ec","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:28.702Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:29.295Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:29.888Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9fe","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:30.573Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca04","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:31.183Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:31.804Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:32.407Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca14","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:33.000Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca1a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:33.590Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca20","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:34.213Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca32","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:34.804Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca38","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:35.412Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca3e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:36.009Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca44","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:36.603Z] ERROR ❌ Error empresa {"empresaId":"69de974872d800e7f7af26e8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:37.213Z] ERROR ❌ Error empresa {"empresaId":"69de987271aea2c5abdd8e5d","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:37.805Z] ERROR ❌ Error empresa {"empresaId":"69e0d198792cafe9f987e5a0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:38.877Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcbb","numero":"FAC-001490","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:39.484Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcc2","numero":"FAC-001491","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:40.079Z] ERROR ❌ Error factura {"facturaId":"69e78f4f169525128f3dbcc8","numero":"FAC-001492","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:40.671Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcce","numero":"FAC-001493","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:41.280Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcd4","numero":"FAC-001494","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:41.872Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce3","numero":"FAC-001495","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:42.479Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce9","numero":"FAC-001496","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:43.074Z] ERROR ❌ Error factura {"facturaId":"69e78f54169525128f3dbcf3","numero":"FAC-001497","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:43.667Z] ERROR ❌ Error factura {"facturaId":"69e78f5a169525128f3dbd2c","numero":"FAC-001498","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:43.667Z] ERROR Error cerrando conexión {}
+[2026-04-21T15:06:50.946Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:51.253Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:51.566Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:51.861Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:52.171Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:52.467Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:52.764Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:53.061Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:53.371Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:53.669Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:53.979Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:54.276Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:54.586Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9e0","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:54.881Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9ec","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:55.191Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f2","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:55.489Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f8","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:55.784Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9fe","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:56.081Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca04","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:56.392Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0a","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:56.690Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0e","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:56.986Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca14","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:57.282Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca1a","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:57.593Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca20","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:57.891Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca32","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:58.202Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca38","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:58.496Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca3e","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:58.791Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca44","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:59.091Z] ERROR ❌ Error empresa {"empresaId":"69de974872d800e7f7af26e8","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:59.402Z] ERROR ❌ Error empresa {"empresaId":"69de987271aea2c5abdd8e5d","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:59.698Z] ERROR ❌ Error empresa {"empresaId":"69e0d198792cafe9f987e5a0","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:00.460Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcbb","numero":"FAC-001490","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:00.754Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcc2","numero":"FAC-001491","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:01.064Z] ERROR ❌ Error factura {"facturaId":"69e78f4f169525128f3dbcc8","numero":"FAC-001492","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:01.376Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcce","numero":"FAC-001493","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:01.686Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcd4","numero":"FAC-001494","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:01.983Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce3","numero":"FAC-001495","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:02.294Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce9","numero":"FAC-001496","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:02.602Z] ERROR ❌ Error factura {"facturaId":"69e78f54169525128f3dbcf3","numero":"FAC-001497","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:02.916Z] ERROR ❌ Error factura {"facturaId":"69e78f5a169525128f3dbd2c","numero":"FAC-001498","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:02.916Z] ERROR Error cerrando conexión {}
+[2026-04-21T15:07:20.268Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:20.597Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:20.919Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:21.233Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:21.542Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:21.856Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:22.165Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:22.479Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:22.790Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:23.102Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:23.412Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:23.754Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:24.097Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9e0","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:24.408Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9ec","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:24.719Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f2","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:25.031Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f8","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:25.338Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9fe","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:25.647Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca04","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:25.964Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0a","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:26.275Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0e","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:26.587Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca14","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:26.898Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca1a","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:27.209Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca20","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:27.508Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca32","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:27.819Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca38","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:28.133Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca3e","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:28.445Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca44","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:28.758Z] ERROR ❌ Error empresa {"empresaId":"69de974872d800e7f7af26e8","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:29.069Z] ERROR ❌ Error empresa {"empresaId":"69de987271aea2c5abdd8e5d","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:29.380Z] ERROR ❌ Error empresa {"empresaId":"69e0d198792cafe9f987e5a0","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:30.171Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcbb","numero":"FAC-001490","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:30.469Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcc2","numero":"FAC-001491","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:30.782Z] ERROR ❌ Error factura {"facturaId":"69e78f4f169525128f3dbcc8","numero":"FAC-001492","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:31.078Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcce","numero":"FAC-001493","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:31.390Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcd4","numero":"FAC-001494","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:31.687Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce3","numero":"FAC-001495","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:31.984Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce9","numero":"FAC-001496","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:32.280Z] ERROR ❌ Error factura {"facturaId":"69e78f54169525128f3dbcf3","numero":"FAC-001497","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:32.578Z] ERROR ❌ Error factura {"facturaId":"69e78f5a169525128f3dbd2c","numero":"FAC-001498","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:32.578Z] ERROR Error cerrando conexión {}
+[2026-04-21T15:10:36.135Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:36.446Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:36.756Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:37.052Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:37.362Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:37.659Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:37.956Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:38.265Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:38.579Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:38.873Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:39.172Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:39.466Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:39.762Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9e0","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:40.072Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9ec","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:40.370Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f2","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:40.685Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f8","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:40.994Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9fe","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:41.290Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca04","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:41.601Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0a","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:41.900Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0e","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:42.194Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca14","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:42.507Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca1a","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:42.817Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca20","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:43.115Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca32","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:43.425Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca38","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:43.721Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca3e","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:44.018Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca44","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:44.331Z] ERROR ❌ Error empresa {"empresaId":"69de974872d800e7f7af26e8","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:44.643Z] ERROR ❌ Error empresa {"empresaId":"69de987271aea2c5abdd8e5d","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:44.954Z] ERROR ❌ Error empresa {"empresaId":"69e0d198792cafe9f987e5a0","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:45.716Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcbb","numero":"FAC-001490","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:46.012Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcc2","numero":"FAC-001491","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:46.321Z] ERROR ❌ Error factura {"facturaId":"69e78f4f169525128f3dbcc8","numero":"FAC-001492","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:46.635Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcce","numero":"FAC-001493","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:46.945Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcd4","numero":"FAC-001494","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:47.258Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce3","numero":"FAC-001495","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:47.556Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce9","numero":"FAC-001496","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:47.867Z] ERROR ❌ Error factura {"facturaId":"69e78f54169525128f3dbcf3","numero":"FAC-001497","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:48.179Z] ERROR ❌ Error factura {"facturaId":"69e78f5a169525128f3dbd2c","numero":"FAC-001498","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:48.179Z] ERROR Error cerrando conexión {}
+[2026-04-21T15:12:03.503Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:04.125Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:04.733Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:05.341Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:05.947Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:06.565Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:07.237Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:07.843Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:08.450Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:09.074Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:09.681Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:10.287Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:10.910Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9e0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:11.536Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9ec","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:12.125Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:12.733Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:13.403Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9fe","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:14.023Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca04","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:14.628Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:15.238Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:15.836Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca14","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:16.458Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca1a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:17.077Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca20","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:17.698Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca32","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:18.305Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca38","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:18.896Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca3e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:19.488Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca44","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:20.095Z] ERROR ❌ Error empresa {"empresaId":"69de974872d800e7f7af26e8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:20.699Z] ERROR ❌ Error empresa {"empresaId":"69de987271aea2c5abdd8e5d","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:21.295Z] ERROR ❌ Error empresa {"empresaId":"69e0d198792cafe9f987e5a0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:22.381Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcbb","numero":"FAC-001490","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:22.988Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcc2","numero":"FAC-001491","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:23.594Z] ERROR ❌ Error factura {"facturaId":"69e78f4f169525128f3dbcc8","numero":"FAC-001492","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:24.198Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcce","numero":"FAC-001493","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:24.791Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcd4","numero":"FAC-001494","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:25.400Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce3","numero":"FAC-001495","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:25.991Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce9","numero":"FAC-001496","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:26.601Z] ERROR ❌ Error factura {"facturaId":"69e78f54169525128f3dbcf3","numero":"FAC-001497","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:27.207Z] ERROR ❌ Error factura {"facturaId":"69e78f5a169525128f3dbd2c","numero":"FAC-001498","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:27.208Z] ERROR Error cerrando conexión {}
+[2026-04-21T15:12:31.126Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:31.747Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:32.356Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:33.011Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:33.620Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:34.227Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:34.847Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:35.438Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:36.034Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:36.642Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:37.299Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:37.905Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:38.526Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9e0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:39.136Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9ec","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:39.744Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:40.354Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:40.959Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9fe","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:41.567Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca04","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:42.189Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:42.795Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:43.387Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca14","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:43.995Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca1a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:44.601Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca20","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:45.225Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca32","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:22:53.964Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:22:54.569Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:22:55.193Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:22:55.816Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:22:56.421Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:22:57.046Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:22:57.651Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:22:58.258Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:22:58.884Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:22:59.504Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:00.123Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:00.745Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:01.368Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9e0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:01.993Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9ec","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:02.616Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:03.225Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:03.819Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9fe","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:04.441Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca04","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:05.063Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:05.686Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:06.344Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca14","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:06.965Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca1a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:07.591Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca20","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:08.225Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca32","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:08.833Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca38","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:09.476Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca3e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:10.148Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca44","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:10.771Z] ERROR ❌ Error empresa {"empresaId":"69de974872d800e7f7af26e8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:11.408Z] ERROR ❌ Error empresa {"empresaId":"69de987271aea2c5abdd8e5d","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:12.033Z] ERROR ❌ Error empresa {"empresaId":"69e0d198792cafe9f987e5a0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:13.140Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcbb","numero":"FAC-001490","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:13.761Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcc2","numero":"FAC-001491","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:14.384Z] ERROR ❌ Error factura {"facturaId":"69e78f4f169525128f3dbcc8","numero":"FAC-001492","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:19.910Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:20.544Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:21.182Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:21.790Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:22.400Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:23.008Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:23.617Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:24.229Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:24.851Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:25.455Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:26.067Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:26.677Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:27.280Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9e0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:27.904Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9ec","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:28.516Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:29.124Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:29.748Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9fe","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:30.369Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca04","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:30.977Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:31.585Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:32.195Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca14","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:32.801Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca1a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:33.423Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca20","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:34.043Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca32","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:34.664Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca38","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:35.287Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca3e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:35.893Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca44","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:36.515Z] ERROR ❌ Error empresa {"empresaId":"69de974872d800e7f7af26e8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:37.123Z] ERROR ❌ Error empresa {"empresaId":"69de987271aea2c5abdd8e5d","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:37.742Z] ERROR ❌ Error empresa {"empresaId":"69e0d198792cafe9f987e5a0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:38.868Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcbb","numero":"FAC-001490","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:39.488Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcc2","numero":"FAC-001491","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:40.096Z] ERROR ❌ Error factura {"facturaId":"69e78f4f169525128f3dbcc8","numero":"FAC-001492","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:40.701Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcce","numero":"FAC-001493","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:41.324Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcd4","numero":"FAC-001494","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:41.931Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce3","numero":"FAC-001495","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:42.553Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce9","numero":"FAC-001496","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:43.148Z] ERROR ❌ Error factura {"facturaId":"69e78f54169525128f3dbcf3","numero":"FAC-001497","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:43.768Z] ERROR ❌ Error factura {"facturaId":"69e78f5a169525128f3dbd2c","numero":"FAC-001498","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:43.768Z] ERROR Error cerrando conexión {}
+[2026-04-21T15:29:16.963Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:29:17.584Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:29:18.190Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:29:18.797Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:29:19.405Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:29:20.013Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:29:20.633Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:29:21.244Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:29:21.850Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:40:00.884Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:40:01.710Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:40:02.331Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:40:02.939Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:40:03.550Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:40:04.204Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:40:04.828Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:40:05.449Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:40:06.058Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:00.967Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:01.588Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:02.210Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:02.835Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:03.442Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:04.048Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:04.671Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:05.292Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:05.901Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:06.525Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:07.148Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:07.772Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:08.394Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9e0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:09.020Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9ec","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:09.628Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:10.239Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:10.861Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9fe","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:11.486Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca04","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:12.093Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:12.896Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:13.515Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:14.138Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:14.759Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:15.379Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:15.991Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:16.614Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:17.225Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:17.907Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:18.518Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:19.140Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:19.758Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:20.383Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9e0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:21.005Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9ec","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:21.627Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:22.251Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:22.875Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9fe","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:23.485Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca04","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:24.094Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:24.713Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:25.337Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca14","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:25.959Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca1a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:26.569Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca20","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:27.190Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca32","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:27.799Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca38","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:28.423Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca3e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:29.044Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca44","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:29.665Z] ERROR ❌ Error empresa {"empresaId":"69de974872d800e7f7af26e8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:30.287Z] ERROR ❌ Error empresa {"empresaId":"69de987271aea2c5abdd8e5d","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:30.908Z] ERROR ❌ Error empresa {"empresaId":"69e0d198792cafe9f987e5a0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:31.609Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcbb","numero":"FAC-001490","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:32.217Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcc2","numero":"FAC-001491","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:32.812Z] ERROR ❌ Error factura {"facturaId":"69e78f4f169525128f3dbcc8","numero":"FAC-001492","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:33.435Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcce","numero":"FAC-001493","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:34.058Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcd4","numero":"FAC-001494","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:34.699Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce3","numero":"FAC-001495","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:35.335Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce9","numero":"FAC-001496","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:16.387Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:17.026Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:17.652Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:18.273Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:18.881Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:19.491Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:20.100Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:20.711Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:21.334Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:21.959Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:22.579Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:23.173Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:23.798Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9e0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:24.416Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9ec","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:25.027Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:25.650Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:26.278Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9fe","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:26.898Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca04","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:27.506Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:28.129Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:28.749Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca14","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:29.358Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca1a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:29.981Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca20","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:30.604Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca32","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:31.224Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca38","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:31.845Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca3e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:32.464Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca44","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:33.091Z] ERROR ❌ Error empresa {"empresaId":"69de974872d800e7f7af26e8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:33.700Z] ERROR ❌ Error empresa {"empresaId":"69de987271aea2c5abdd8e5d","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:34.324Z] ERROR ❌ Error empresa {"empresaId":"69e0d198792cafe9f987e5a0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:35.039Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcbb","numero":"FAC-001490","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:35.663Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcc2","numero":"FAC-001491","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:36.286Z] ERROR ❌ Error factura {"facturaId":"69e78f4f169525128f3dbcc8","numero":"FAC-001492","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:36.908Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcce","numero":"FAC-001493","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:37.517Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcd4","numero":"FAC-001494","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:38.141Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce3","numero":"FAC-001495","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:38.764Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce9","numero":"FAC-001496","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:39.374Z] ERROR ❌ Error factura {"facturaId":"69e78f54169525128f3dbcf3","numero":"FAC-001497","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:39.997Z] ERROR ❌ Error factura {"facturaId":"69e78f5a169525128f3dbd2c","numero":"FAC-001498","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:39.997Z] ERROR Error cerrando conexión {}
+[2026-04-21T16:02:47.256Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:02:47.894Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:02:48.516Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:02:49.138Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:02:49.762Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:02:50.388Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:02:51.009Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:02:51.615Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:02:52.236Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:02:52.863Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:02:53.484Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:02:54.110Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:47.863Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:48.482Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:49.105Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:49.726Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:50.367Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:50.987Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:51.609Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:52.232Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:52.932Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:53.558Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:54.181Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:54.791Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:55.417Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9e0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:56.039Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9ec","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:56.663Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:57.286Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:57.907Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9fe","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:58.530Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca04","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:25:27.139Z] ERROR 💥 ERROR GENERAL SYNC timeout of 30000ms exceeded
+[2026-04-21T16:26:27.057Z] ERROR 💥 ERROR GENERAL SYNC timeout of 30000ms exceeded
+[2026-04-21T18:22:41.907Z] ERROR 💥 ERROR GENERAL SYNC Unsupported protocol localhost:
+[2026-04-21T18:23:11.861Z] ERROR 💥 ERROR GENERAL SYNC Unsupported protocol localhost:
+[2026-04-21T18:23:41.858Z] ERROR 💥 ERROR GENERAL SYNC Unsupported protocol localhost:
+[2026-04-21T18:23:51.748Z] ERROR 💥 ERROR GENERAL SYNC Unsupported protocol localhost:
+[2026-04-21T18:27:52.314Z] ERROR 💥 ERROR GENERAL SYNC write EPROTO 6C200000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+[2026-04-21T18:28:22.196Z] ERROR 💥 ERROR GENERAL SYNC write EPROTO 6C200000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+

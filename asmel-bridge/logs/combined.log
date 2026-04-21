@@ -1,0 +1,1599 @@
+[2026-04-21T13:22:04.729Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T13:22:34.987Z] INFO 🔥 Conectado a Access 
+[2026-04-21T13:22:35.536Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T13:22:36.169Z] INFO ✅ Empresa OK {"empresaId":"69367274ee8e30c3f7ba517a","numeroCliente":"1002"}
+[2026-04-21T13:22:36.484Z] INFO ✅ Empresa OK {"empresaId":"69a2db8b94ae3faa031c0a9f","numeroCliente":"1"}
+[2026-04-21T13:22:36.815Z] INFO ✅ Empresa OK {"empresaId":"69c96be1dc2ef22f06e6c9a6","numeroCliente":"159"}
+[2026-04-21T13:22:37.124Z] INFO ✅ Empresa OK {"empresaId":"69c96be2dc2ef22f06e6c9ac","numeroCliente":"160"}
+[2026-04-21T13:22:37.436Z] INFO ✅ Empresa OK {"empresaId":"69c96be2dc2ef22f06e6c9b2","numeroCliente":"161"}
+[2026-04-21T13:22:37.747Z] INFO ✅ Empresa OK {"empresaId":"69c96be2dc2ef22f06e6c9b6","numeroCliente":"162"}
+[2026-04-21T13:22:38.062Z] INFO ✅ Empresa OK {"empresaId":"69c96be2dc2ef22f06e6c9bc","numeroCliente":"163"}
+[2026-04-21T13:22:38.390Z] INFO ✅ Empresa OK {"empresaId":"69c96be2dc2ef22f06e6c9c2","numeroCliente":"164"}
+[2026-04-21T13:22:38.839Z] INFO ✅ Empresa OK {"empresaId":"69c96be3dc2ef22f06e6c9c8","numeroCliente":"165"}
+[2026-04-21T13:22:39.362Z] INFO ✅ Empresa OK {"empresaId":"69c96be3dc2ef22f06e6c9ce","numeroCliente":"166"}
+[2026-04-21T13:22:39.670Z] INFO ✅ Empresa OK {"empresaId":"69c96be3dc2ef22f06e6c9d4","numeroCliente":"167"}
+[2026-04-21T13:22:39.989Z] INFO ✅ Empresa OK {"empresaId":"69c96be3dc2ef22f06e6c9da","numeroCliente":"168"}
+[2026-04-21T13:22:40.292Z] INFO ✅ Empresa OK {"empresaId":"69c96be3dc2ef22f06e6c9e0","numeroCliente":"169"}
+[2026-04-21T13:22:40.622Z] INFO ✅ Empresa OK {"empresaId":"69c96be4dc2ef22f06e6c9ec","numeroCliente":"170"}
+[2026-04-21T13:22:40.930Z] INFO ✅ Empresa OK {"empresaId":"69c96be4dc2ef22f06e6c9f2","numeroCliente":"171"}
+[2026-04-21T13:22:41.239Z] INFO ✅ Empresa OK {"empresaId":"69c96be4dc2ef22f06e6c9f8","numeroCliente":"172"}
+[2026-04-21T13:22:41.564Z] INFO ✅ Empresa OK {"empresaId":"69c96be4dc2ef22f06e6c9fe","numeroCliente":"173"}
+[2026-04-21T13:22:41.875Z] INFO ✅ Empresa OK {"empresaId":"69c96be5dc2ef22f06e6ca04","numeroCliente":"174"}
+[2026-04-21T13:22:42.177Z] INFO ✅ Empresa OK {"empresaId":"69c96be5dc2ef22f06e6ca0a","numeroCliente":"175"}
+[2026-04-21T13:22:42.523Z] INFO ✅ Empresa OK {"empresaId":"69c96be5dc2ef22f06e6ca0e","numeroCliente":"176"}
+[2026-04-21T13:22:42.838Z] INFO ✅ Empresa OK {"empresaId":"69c96be5dc2ef22f06e6ca14","numeroCliente":"177"}
+[2026-04-21T13:22:43.158Z] INFO ✅ Empresa OK {"empresaId":"69c96be5dc2ef22f06e6ca1a","numeroCliente":"178"}
+[2026-04-21T13:22:43.475Z] INFO ✅ Empresa OK {"empresaId":"69c96be6dc2ef22f06e6ca20","numeroCliente":"179"}
+[2026-04-21T13:22:43.796Z] INFO ✅ Empresa OK {"empresaId":"69c96be6dc2ef22f06e6ca32","numeroCliente":"182"}
+[2026-04-21T13:22:44.109Z] INFO ✅ Empresa OK {"empresaId":"69c96be6dc2ef22f06e6ca38","numeroCliente":"183"}
+[2026-04-21T13:22:44.434Z] INFO ✅ Empresa OK {"empresaId":"69c96be7dc2ef22f06e6ca3e","numeroCliente":"184"}
+[2026-04-21T13:22:44.744Z] INFO ✅ Empresa OK {"empresaId":"69c96be7dc2ef22f06e6ca44","numeroCliente":"185"}
+[2026-04-21T13:22:45.055Z] INFO ✅ Empresa OK {"empresaId":"69de974872d800e7f7af26e8","numeroCliente":"186"}
+[2026-04-21T13:22:45.411Z] INFO ✅ Empresa OK {"empresaId":"69de987271aea2c5abdd8e5d","numeroCliente":"187"}
+[2026-04-21T13:22:45.719Z] INFO ✅ Empresa OK {"empresaId":"69e0d198792cafe9f987e5a0","numeroCliente":"188"}
+[2026-04-21T13:22:46.028Z] INFO 🧾 Facturas pendientes: 0 
+[2026-04-21T13:22:46.118Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-21T13:23:04.845Z] INFO 🔥 Conectado a Access 
+[2026-04-21T13:23:05.335Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T13:23:05.658Z] INFO ✅ Empresa OK {"empresaId":"69367274ee8e30c3f7ba517a","numeroCliente":"1002"}
+[2026-04-21T13:23:05.971Z] INFO ✅ Empresa OK {"empresaId":"69a2db8b94ae3faa031c0a9f","numeroCliente":"1"}
+[2026-04-21T13:23:06.289Z] INFO ✅ Empresa OK {"empresaId":"69c96be1dc2ef22f06e6c9a6","numeroCliente":"159"}
+[2026-04-21T13:23:06.618Z] INFO ✅ Empresa OK {"empresaId":"69c96be2dc2ef22f06e6c9ac","numeroCliente":"160"}
+[2026-04-21T13:23:06.950Z] INFO ✅ Empresa OK {"empresaId":"69c96be2dc2ef22f06e6c9b2","numeroCliente":"161"}
+[2026-04-21T13:23:07.313Z] INFO ✅ Empresa OK {"empresaId":"69c96be2dc2ef22f06e6c9b6","numeroCliente":"162"}
+[2026-04-21T13:23:07.620Z] INFO ✅ Empresa OK {"empresaId":"69c96be2dc2ef22f06e6c9bc","numeroCliente":"163"}
+[2026-04-21T13:23:07.918Z] INFO ✅ Empresa OK {"empresaId":"69c96be2dc2ef22f06e6c9c2","numeroCliente":"164"}
+[2026-04-21T13:23:08.228Z] INFO ✅ Empresa OK {"empresaId":"69c96be3dc2ef22f06e6c9c8","numeroCliente":"165"}
+[2026-04-21T13:23:08.547Z] INFO ✅ Empresa OK {"empresaId":"69c96be3dc2ef22f06e6c9ce","numeroCliente":"166"}
+[2026-04-21T13:23:08.851Z] INFO ✅ Empresa OK {"empresaId":"69c96be3dc2ef22f06e6c9d4","numeroCliente":"167"}
+[2026-04-21T13:23:09.160Z] INFO ✅ Empresa OK {"empresaId":"69c96be3dc2ef22f06e6c9da","numeroCliente":"168"}
+[2026-04-21T13:23:09.488Z] INFO ✅ Empresa OK {"empresaId":"69c96be3dc2ef22f06e6c9e0","numeroCliente":"169"}
+[2026-04-21T13:23:09.792Z] INFO ✅ Empresa OK {"empresaId":"69c96be4dc2ef22f06e6c9ec","numeroCliente":"170"}
+[2026-04-21T13:23:10.125Z] INFO ✅ Empresa OK {"empresaId":"69c96be4dc2ef22f06e6c9f2","numeroCliente":"171"}
+[2026-04-21T13:23:10.453Z] INFO ✅ Empresa OK {"empresaId":"69c96be4dc2ef22f06e6c9f8","numeroCliente":"172"}
+[2026-04-21T13:23:10.772Z] INFO ✅ Empresa OK {"empresaId":"69c96be4dc2ef22f06e6c9fe","numeroCliente":"173"}
+[2026-04-21T13:23:11.100Z] INFO ✅ Empresa OK {"empresaId":"69c96be5dc2ef22f06e6ca04","numeroCliente":"174"}
+[2026-04-21T13:23:11.417Z] INFO ✅ Empresa OK {"empresaId":"69c96be5dc2ef22f06e6ca0a","numeroCliente":"175"}
+[2026-04-21T13:23:11.726Z] INFO ✅ Empresa OK {"empresaId":"69c96be5dc2ef22f06e6ca0e","numeroCliente":"176"}
+[2026-04-21T13:23:12.043Z] INFO ✅ Empresa OK {"empresaId":"69c96be5dc2ef22f06e6ca14","numeroCliente":"177"}
+[2026-04-21T13:23:12.381Z] INFO ✅ Empresa OK {"empresaId":"69c96be5dc2ef22f06e6ca1a","numeroCliente":"178"}
+[2026-04-21T13:23:12.691Z] INFO ✅ Empresa OK {"empresaId":"69c96be6dc2ef22f06e6ca20","numeroCliente":"179"}
+[2026-04-21T13:23:13.024Z] INFO ✅ Empresa OK {"empresaId":"69c96be6dc2ef22f06e6ca32","numeroCliente":"182"}
+[2026-04-21T13:23:13.355Z] INFO ✅ Empresa OK {"empresaId":"69c96be6dc2ef22f06e6ca38","numeroCliente":"183"}
+[2026-04-21T13:23:13.671Z] INFO ✅ Empresa OK {"empresaId":"69c96be7dc2ef22f06e6ca3e","numeroCliente":"184"}
+[2026-04-21T13:28:53.632Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T13:28:53.638Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T13:29:23.855Z] INFO 🔥 Conectado a Access 
+[2026-04-21T13:29:24.680Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T13:29:25.016Z] INFO ✅ Empresa OK {"empresaId":"69367274ee8e30c3f7ba517a","numeroCliente":"1002"}
+[2026-04-21T13:29:25.326Z] INFO ✅ Empresa OK {"empresaId":"69a2db8b94ae3faa031c0a9f","numeroCliente":"1"}
+[2026-04-21T13:29:25.682Z] INFO ✅ Empresa OK {"empresaId":"69c96be1dc2ef22f06e6c9a6","numeroCliente":"159"}
+[2026-04-21T13:29:26.034Z] INFO ✅ Empresa OK {"empresaId":"69c96be2dc2ef22f06e6c9ac","numeroCliente":"160"}
+[2026-04-21T13:29:26.362Z] INFO ✅ Empresa OK {"empresaId":"69c96be2dc2ef22f06e6c9b2","numeroCliente":"161"}
+[2026-04-21T13:29:26.805Z] INFO ✅ Empresa OK {"empresaId":"69c96be2dc2ef22f06e6c9b6","numeroCliente":"162"}
+[2026-04-21T13:29:27.148Z] INFO ✅ Empresa OK {"empresaId":"69c96be2dc2ef22f06e6c9bc","numeroCliente":"163"}
+[2026-04-21T13:29:27.455Z] INFO ✅ Empresa OK {"empresaId":"69c96be2dc2ef22f06e6c9c2","numeroCliente":"164"}
+[2026-04-21T13:29:27.768Z] INFO ✅ Empresa OK {"empresaId":"69c96be3dc2ef22f06e6c9c8","numeroCliente":"165"}
+[2026-04-21T13:29:28.070Z] INFO ✅ Empresa OK {"empresaId":"69c96be3dc2ef22f06e6c9ce","numeroCliente":"166"}
+[2026-04-21T13:29:28.393Z] INFO ✅ Empresa OK {"empresaId":"69c96be3dc2ef22f06e6c9d4","numeroCliente":"167"}
+[2026-04-21T13:29:28.717Z] INFO ✅ Empresa OK {"empresaId":"69c96be3dc2ef22f06e6c9da","numeroCliente":"168"}
+[2026-04-21T13:29:29.029Z] INFO ✅ Empresa OK {"empresaId":"69c96be3dc2ef22f06e6c9e0","numeroCliente":"169"}
+[2026-04-21T13:29:29.351Z] INFO ✅ Empresa OK {"empresaId":"69c96be4dc2ef22f06e6c9ec","numeroCliente":"170"}
+[2026-04-21T13:29:29.661Z] INFO ✅ Empresa OK {"empresaId":"69c96be4dc2ef22f06e6c9f2","numeroCliente":"171"}
+[2026-04-21T13:29:29.981Z] INFO ✅ Empresa OK {"empresaId":"69c96be4dc2ef22f06e6c9f8","numeroCliente":"172"}
+[2026-04-21T13:29:30.294Z] INFO ✅ Empresa OK {"empresaId":"69c96be4dc2ef22f06e6c9fe","numeroCliente":"173"}
+[2026-04-21T13:29:30.607Z] INFO ✅ Empresa OK {"empresaId":"69c96be5dc2ef22f06e6ca04","numeroCliente":"174"}
+[2026-04-21T13:29:30.941Z] INFO ✅ Empresa OK {"empresaId":"69c96be5dc2ef22f06e6ca0a","numeroCliente":"175"}
+[2026-04-21T13:29:31.285Z] INFO ✅ Empresa OK {"empresaId":"69c96be5dc2ef22f06e6ca0e","numeroCliente":"176"}
+[2026-04-21T13:29:31.636Z] INFO ✅ Empresa OK {"empresaId":"69c96be5dc2ef22f06e6ca14","numeroCliente":"177"}
+[2026-04-21T13:29:31.953Z] INFO ✅ Empresa OK {"empresaId":"69c96be5dc2ef22f06e6ca1a","numeroCliente":"178"}
+[2026-04-21T13:29:32.299Z] INFO ✅ Empresa OK {"empresaId":"69c96be6dc2ef22f06e6ca20","numeroCliente":"179"}
+[2026-04-21T13:29:32.644Z] INFO ✅ Empresa OK {"empresaId":"69c96be6dc2ef22f06e6ca32","numeroCliente":"182"}
+[2026-04-21T13:29:32.969Z] INFO ✅ Empresa OK {"empresaId":"69c96be6dc2ef22f06e6ca38","numeroCliente":"183"}
+[2026-04-21T13:29:33.279Z] INFO ✅ Empresa OK {"empresaId":"69c96be7dc2ef22f06e6ca3e","numeroCliente":"184"}
+[2026-04-21T13:29:33.577Z] INFO ✅ Empresa OK {"empresaId":"69c96be7dc2ef22f06e6ca44","numeroCliente":"185"}
+[2026-04-21T13:29:34.013Z] INFO ✅ Empresa OK {"empresaId":"69de974872d800e7f7af26e8","numeroCliente":"186"}
+[2026-04-21T13:29:34.317Z] INFO ✅ Empresa OK {"empresaId":"69de987271aea2c5abdd8e5d","numeroCliente":"187"}
+[2026-04-21T13:29:34.627Z] INFO ✅ Empresa OK {"empresaId":"69e0d198792cafe9f987e5a0","numeroCliente":"188"}
+[2026-04-21T13:29:34.930Z] INFO 🧾 Facturas pendientes: 0 
+[2026-04-21T13:29:35.023Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-21T13:51:53.114Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T13:51:53.120Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T13:52:23.128Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T13:52:53.133Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T13:54:42.750Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T13:54:42.757Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T13:55:12.764Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T13:55:42.772Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T13:56:12.786Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T13:56:42.797Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T13:57:12.808Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T13:57:25.202Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T13:57:25.208Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T13:57:37.225Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T13:57:37.232Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T13:58:07.236Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T13:58:37.240Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T13:59:07.241Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T13:59:37.252Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:00:07.254Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:00:37.263Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:01:07.265Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:01:37.265Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:01:46.431Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T14:01:46.437Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T14:02:17.866Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:02:46.696Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:03:41.844Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T14:03:41.850Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T14:04:12.150Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:04:42.115Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:05:12.115Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:05:42.128Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:34:39.099Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T14:34:39.105Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T14:35:09.682Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:35:47.791Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T14:35:47.797Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T14:36:18.066Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:36:48.030Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:37:18.029Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:37:48.076Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:41:20.712Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T14:41:20.718Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T14:41:50.982Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:42:20.952Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:42:50.953Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:43:20.957Z] ERROR 💥 ERROR GENERAL SYNC "[odbc] Error connecting to the database"
+[2026-04-21T14:45:30.239Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T14:45:30.245Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T14:46:00.266Z] INFO 🔥 Conectado a Access 
+[2026-04-21T14:46:30.253Z] WARN ⛔ Sync ya en ejecución 
+[2026-04-21T14:46:30.317Z] ERROR 💥 ERROR GENERAL SYNC "timeout of 30000ms exceeded"
+[2026-04-21T14:46:30.317Z] ERROR Error cerrando conexión {}
+[2026-04-21T14:47:00.271Z] INFO 🔥 Conectado a Access 
+[2026-04-21T14:47:23.751Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T14:47:25.324Z] INFO ✅ Empresa OK {"empresaId":"69367274ee8e30c3f7ba517a","numeroCliente":"1002"}
+[2026-04-21T14:47:26.323Z] INFO ✅ Empresa OK {"empresaId":"69a2db8b94ae3faa031c0a9f","numeroCliente":"1"}
+[2026-04-21T14:47:27.374Z] WARN ⛔ Sync ya en ejecución 
+[2026-04-21T14:47:27.526Z] INFO ✅ Empresa OK {"empresaId":"69c96be1dc2ef22f06e6c9a6","numeroCliente":"159"}
+[2026-04-21T14:47:28.677Z] INFO ✅ Empresa OK {"empresaId":"69c96be2dc2ef22f06e6c9ac","numeroCliente":"160"}
+[2026-04-21T14:47:29.648Z] INFO ✅ Empresa OK {"empresaId":"69c96be2dc2ef22f06e6c9b2","numeroCliente":"161"}
+[2026-04-21T14:47:30.259Z] WARN ⛔ Sync ya en ejecución 
+[2026-04-21T14:47:30.614Z] INFO ✅ Empresa OK {"empresaId":"69c96be2dc2ef22f06e6c9b6","numeroCliente":"162"}
+[2026-04-21T14:47:31.594Z] INFO ✅ Empresa OK {"empresaId":"69c96be2dc2ef22f06e6c9bc","numeroCliente":"163"}
+[2026-04-21T14:47:32.575Z] INFO ✅ Empresa OK {"empresaId":"69c96be2dc2ef22f06e6c9c2","numeroCliente":"164"}
+[2026-04-21T14:47:33.540Z] INFO ✅ Empresa OK {"empresaId":"69c96be3dc2ef22f06e6c9c8","numeroCliente":"165"}
+[2026-04-21T14:47:34.614Z] INFO ✅ Empresa OK {"empresaId":"69c96be3dc2ef22f06e6c9ce","numeroCliente":"166"}
+[2026-04-21T14:47:35.659Z] INFO ✅ Empresa OK {"empresaId":"69c96be3dc2ef22f06e6c9d4","numeroCliente":"167"}
+[2026-04-21T14:47:36.957Z] INFO ✅ Empresa OK {"empresaId":"69c96be3dc2ef22f06e6c9da","numeroCliente":"168"}
+[2026-04-21T14:47:37.941Z] INFO ✅ Empresa OK {"empresaId":"69c96be3dc2ef22f06e6c9e0","numeroCliente":"169"}
+[2026-04-21T14:47:38.624Z] INFO ✅ Empresa OK {"empresaId":"69c96be4dc2ef22f06e6c9ec","numeroCliente":"170"}
+[2026-04-21T14:47:39.587Z] INFO ✅ Empresa OK {"empresaId":"69c96be4dc2ef22f06e6c9f2","numeroCliente":"171"}
+[2026-04-21T14:47:40.234Z] INFO ✅ Empresa OK {"empresaId":"69c96be4dc2ef22f06e6c9f8","numeroCliente":"172"}
+[2026-04-21T14:47:40.865Z] INFO ✅ Empresa OK {"empresaId":"69c96be4dc2ef22f06e6c9fe","numeroCliente":"173"}
+[2026-04-21T14:47:41.507Z] INFO ✅ Empresa OK {"empresaId":"69c96be5dc2ef22f06e6ca04","numeroCliente":"174"}
+[2026-04-21T14:47:42.133Z] INFO ✅ Empresa OK {"empresaId":"69c96be5dc2ef22f06e6ca0a","numeroCliente":"175"}
+[2026-04-21T14:47:42.781Z] INFO ✅ Empresa OK {"empresaId":"69c96be5dc2ef22f06e6ca0e","numeroCliente":"176"}
+[2026-04-21T14:47:43.450Z] INFO ✅ Empresa OK {"empresaId":"69c96be5dc2ef22f06e6ca14","numeroCliente":"177"}
+[2026-04-21T14:47:44.097Z] INFO ✅ Empresa OK {"empresaId":"69c96be5dc2ef22f06e6ca1a","numeroCliente":"178"}
+[2026-04-21T14:47:44.745Z] INFO ✅ Empresa OK {"empresaId":"69c96be6dc2ef22f06e6ca20","numeroCliente":"179"}
+[2026-04-21T14:47:45.416Z] INFO ✅ Empresa OK {"empresaId":"69c96be6dc2ef22f06e6ca32","numeroCliente":"182"}
+[2026-04-21T14:47:46.042Z] INFO ✅ Empresa OK {"empresaId":"69c96be6dc2ef22f06e6ca38","numeroCliente":"183"}
+[2026-04-21T14:47:46.660Z] INFO ✅ Empresa OK {"empresaId":"69c96be7dc2ef22f06e6ca3e","numeroCliente":"184"}
+[2026-04-21T14:47:47.283Z] INFO ✅ Empresa OK {"empresaId":"69c96be7dc2ef22f06e6ca44","numeroCliente":"185"}
+[2026-04-21T14:47:48.226Z] INFO ✅ Empresa OK {"empresaId":"69de974872d800e7f7af26e8","numeroCliente":"186"}
+[2026-04-21T14:47:48.862Z] INFO ✅ Empresa OK {"empresaId":"69de987271aea2c5abdd8e5d","numeroCliente":"187"}
+[2026-04-21T14:47:49.844Z] INFO ✅ Empresa OK {"empresaId":"69e0d198792cafe9f987e5a0","numeroCliente":"188"}
+[2026-04-21T14:47:50.152Z] INFO 🧾 Facturas pendientes: 0 
+[2026-04-21T14:47:50.153Z] ERROR Error cerrando conexión {}
+[2026-04-21T14:48:00.305Z] INFO 🔥 Conectado a Access 
+[2026-04-21T14:48:00.841Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T14:48:01.819Z] INFO ✅ Empresa OK {"empresaId":"69367274ee8e30c3f7ba517a","numeroCliente":"1002"}
+[2026-04-21T14:48:02.805Z] INFO ✅ Empresa OK {"empresaId":"69a2db8b94ae3faa031c0a9f","numeroCliente":"1"}
+[2026-04-21T14:48:03.725Z] INFO ✅ Empresa OK {"empresaId":"69c96be1dc2ef22f06e6c9a6","numeroCliente":"159"}
+[2026-04-21T14:48:04.632Z] INFO ✅ Empresa OK {"empresaId":"69c96be2dc2ef22f06e6c9ac","numeroCliente":"160"}
+[2026-04-21T14:48:05.680Z] INFO ✅ Empresa OK {"empresaId":"69c96be2dc2ef22f06e6c9b2","numeroCliente":"161"}
+[2026-04-21T14:48:06.624Z] INFO ✅ Empresa OK {"empresaId":"69c96be2dc2ef22f06e6c9b6","numeroCliente":"162"}
+[2026-04-21T14:48:07.568Z] INFO ✅ Empresa OK {"empresaId":"69c96be2dc2ef22f06e6c9bc","numeroCliente":"163"}
+[2026-04-21T14:48:08.527Z] INFO ✅ Empresa OK {"empresaId":"69c96be2dc2ef22f06e6c9c2","numeroCliente":"164"}
+[2026-04-21T14:48:09.480Z] INFO ✅ Empresa OK {"empresaId":"69c96be3dc2ef22f06e6c9c8","numeroCliente":"165"}
+[2026-04-21T14:48:10.519Z] INFO ✅ Empresa OK {"empresaId":"69c96be3dc2ef22f06e6c9ce","numeroCliente":"166"}
+[2026-04-21T14:48:11.580Z] INFO ✅ Empresa OK {"empresaId":"69c96be3dc2ef22f06e6c9d4","numeroCliente":"167"}
+[2026-04-21T14:48:12.879Z] INFO ✅ Empresa OK {"empresaId":"69c96be3dc2ef22f06e6c9da","numeroCliente":"168"}
+[2026-04-21T14:48:13.605Z] INFO ✅ Empresa OK {"empresaId":"69c96be3dc2ef22f06e6c9e0","numeroCliente":"169"}
+[2026-04-21T14:48:14.293Z] INFO ✅ Empresa OK {"empresaId":"69c96be4dc2ef22f06e6c9ec","numeroCliente":"170"}
+[2026-04-21T14:48:15.265Z] INFO ✅ Empresa OK {"empresaId":"69c96be4dc2ef22f06e6c9f2","numeroCliente":"171"}
+[2026-04-21T14:48:15.900Z] INFO ✅ Empresa OK {"empresaId":"69c96be4dc2ef22f06e6c9f8","numeroCliente":"172"}
+[2026-04-21T14:48:16.522Z] INFO ✅ Empresa OK {"empresaId":"69c96be4dc2ef22f06e6c9fe","numeroCliente":"173"}
+[2026-04-21T14:48:17.165Z] INFO ✅ Empresa OK {"empresaId":"69c96be5dc2ef22f06e6ca04","numeroCliente":"174"}
+[2026-04-21T14:48:17.793Z] INFO ✅ Empresa OK {"empresaId":"69c96be5dc2ef22f06e6ca0a","numeroCliente":"175"}
+[2026-04-21T14:48:18.407Z] INFO ✅ Empresa OK {"empresaId":"69c96be5dc2ef22f06e6ca0e","numeroCliente":"176"}
+[2026-04-21T14:48:19.040Z] INFO ✅ Empresa OK {"empresaId":"69c96be5dc2ef22f06e6ca14","numeroCliente":"177"}
+[2026-04-21T14:48:19.699Z] INFO ✅ Empresa OK {"empresaId":"69c96be5dc2ef22f06e6ca1a","numeroCliente":"178"}
+[2026-04-21T14:48:20.332Z] INFO ✅ Empresa OK {"empresaId":"69c96be6dc2ef22f06e6ca20","numeroCliente":"179"}
+[2026-04-21T14:48:20.937Z] INFO ✅ Empresa OK {"empresaId":"69c96be6dc2ef22f06e6ca32","numeroCliente":"182"}
+[2026-04-21T14:48:21.564Z] INFO ✅ Empresa OK {"empresaId":"69c96be6dc2ef22f06e6ca38","numeroCliente":"183"}
+[2026-04-21T14:48:22.176Z] INFO ✅ Empresa OK {"empresaId":"69c96be7dc2ef22f06e6ca3e","numeroCliente":"184"}
+[2026-04-21T14:48:22.809Z] INFO ✅ Empresa OK {"empresaId":"69c96be7dc2ef22f06e6ca44","numeroCliente":"185"}
+[2026-04-21T14:48:23.748Z] INFO ✅ Empresa OK {"empresaId":"69de974872d800e7f7af26e8","numeroCliente":"186"}
+[2026-04-21T14:48:24.357Z] INFO ✅ Empresa OK {"empresaId":"69de987271aea2c5abdd8e5d","numeroCliente":"187"}
+[2026-04-21T14:48:25.313Z] INFO ✅ Empresa OK {"empresaId":"69e0d198792cafe9f987e5a0","numeroCliente":"188"}
+[2026-04-21T14:48:25.616Z] INFO 🧾 Facturas pendientes: 0 
+[2026-04-21T14:48:25.617Z] ERROR Error cerrando conexión {}
+[2026-04-21T14:51:16.655Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T14:51:16.661Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T14:53:07.106Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T14:53:07.112Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T14:53:37.135Z] INFO 🔥 Conectado a Access 
+[2026-04-21T14:53:37.657Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T14:53:38.785Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:39.437Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:40.092Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:40.717Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:41.355Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:41.979Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:42.649Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:43.273Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:43.898Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:44.535Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:45.178Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:45.845Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:46.503Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9e0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:47.144Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9ec","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:47.795Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:48.419Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:49.043Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9fe","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:49.698Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca04","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:50.457Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:51.147Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:51.811Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca14","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:52.447Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca1a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:53.085Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca20","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:53.712Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca32","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:54.349Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca38","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:54.972Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca3e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:55.592Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca44","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:56.218Z] ERROR ❌ Error empresa {"empresaId":"69de974872d800e7f7af26e8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:56.838Z] ERROR ❌ Error empresa {"empresaId":"69de987271aea2c5abdd8e5d","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:57.464Z] ERROR ❌ Error empresa {"empresaId":"69e0d198792cafe9f987e5a0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:57.950Z] INFO 🧾 Facturas pendientes: 9 
+[2026-04-21T14:53:58.584Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcbb","numero":"FAC-001490","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:59.220Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcc2","numero":"FAC-001491","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:53:59.845Z] ERROR ❌ Error factura {"facturaId":"69e78f4f169525128f3dbcc8","numero":"FAC-001492","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:00.469Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcce","numero":"FAC-001493","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:01.094Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcd4","numero":"FAC-001494","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:01.717Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce3","numero":"FAC-001495","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:02.371Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce9","numero":"FAC-001496","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:02.992Z] ERROR ❌ Error factura {"facturaId":"69e78f54169525128f3dbcf3","numero":"FAC-001497","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:03.616Z] ERROR ❌ Error factura {"facturaId":"69e78f5a169525128f3dbd2c","numero":"FAC-001498","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:03.617Z] ERROR Error cerrando conexión {}
+[2026-04-21T14:54:07.146Z] INFO 🔥 Conectado a Access 
+[2026-04-21T14:54:07.621Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T14:54:08.267Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:08.888Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:09.529Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:10.149Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:10.778Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:11.413Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:12.032Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:12.656Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:13.280Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:13.903Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:14.560Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:15.184Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:15.808Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9e0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:16.435Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9ec","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:17.043Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:17.665Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:18.322Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9fe","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:18.949Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca04","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:19.571Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:20.197Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:20.913Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca14","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:21.523Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca1a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:22.134Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca20","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:22.741Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca32","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:23.346Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca38","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:23.973Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca3e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:24.596Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca44","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:25.221Z] ERROR ❌ Error empresa {"empresaId":"69de974872d800e7f7af26e8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:25.831Z] ERROR ❌ Error empresa {"empresaId":"69de987271aea2c5abdd8e5d","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:26.455Z] ERROR ❌ Error empresa {"empresaId":"69e0d198792cafe9f987e5a0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:26.915Z] INFO 🧾 Facturas pendientes: 9 
+[2026-04-21T14:54:27.533Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcbb","numero":"FAC-001490","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:28.154Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcc2","numero":"FAC-001491","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:28.762Z] ERROR ❌ Error factura {"facturaId":"69e78f4f169525128f3dbcc8","numero":"FAC-001492","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:29.387Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcce","numero":"FAC-001493","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:29.995Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcd4","numero":"FAC-001494","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:30.615Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce3","numero":"FAC-001495","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:31.229Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce9","numero":"FAC-001496","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:31.833Z] ERROR ❌ Error factura {"facturaId":"69e78f54169525128f3dbcf3","numero":"FAC-001497","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:32.472Z] ERROR ❌ Error factura {"facturaId":"69e78f5a169525128f3dbd2c","numero":"FAC-001498","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:32.473Z] ERROR Error cerrando conexión {}
+[2026-04-21T14:54:37.159Z] INFO 🔥 Conectado a Access 
+[2026-04-21T14:54:37.625Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T14:54:38.248Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:38.901Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:39.538Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:40.160Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:40.766Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:41.390Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T14:54:41.999Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:01:48.308Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T15:01:48.315Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T15:02:18.329Z] INFO 🔥 Conectado a Access 
+[2026-04-21T15:02:19.163Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T15:02:20.253Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:20.861Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:21.467Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:22.059Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:22.658Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:23.262Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:23.856Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:24.522Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:25.118Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:25.725Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:26.320Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:26.921Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:27.522Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9e0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:28.114Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9ec","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:28.702Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:29.295Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:29.888Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9fe","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:30.573Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca04","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:31.183Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:31.804Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:32.407Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca14","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:33.000Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca1a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:33.590Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca20","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:34.213Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca32","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:34.804Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca38","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:35.412Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca3e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:36.009Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca44","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:36.603Z] ERROR ❌ Error empresa {"empresaId":"69de974872d800e7f7af26e8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:37.213Z] ERROR ❌ Error empresa {"empresaId":"69de987271aea2c5abdd8e5d","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:37.805Z] ERROR ❌ Error empresa {"empresaId":"69e0d198792cafe9f987e5a0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:38.276Z] INFO 🧾 Facturas pendientes: 9 
+[2026-04-21T15:02:38.877Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcbb","numero":"FAC-001490","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:39.484Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcc2","numero":"FAC-001491","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:40.079Z] ERROR ❌ Error factura {"facturaId":"69e78f4f169525128f3dbcc8","numero":"FAC-001492","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:40.671Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcce","numero":"FAC-001493","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:41.280Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcd4","numero":"FAC-001494","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:41.872Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce3","numero":"FAC-001495","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:42.479Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce9","numero":"FAC-001496","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:43.074Z] ERROR ❌ Error factura {"facturaId":"69e78f54169525128f3dbcf3","numero":"FAC-001497","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:43.667Z] ERROR ❌ Error factura {"facturaId":"69e78f5a169525128f3dbd2c","numero":"FAC-001498","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:02:43.667Z] ERROR Error cerrando conexión {}
+[2026-04-21T15:06:19.402Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T15:06:19.409Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T15:06:49.434Z] INFO 🔥 Conectado a Access 
+[2026-04-21T15:06:50.289Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T15:06:50.946Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:51.253Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:51.566Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:51.861Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:52.171Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:52.467Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:52.764Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:53.061Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:53.371Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:53.669Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:53.979Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:54.276Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:54.586Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9e0","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:54.881Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9ec","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:55.191Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f2","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:55.489Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f8","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:55.784Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9fe","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:56.081Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca04","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:56.392Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0a","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:56.690Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0e","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:56.986Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca14","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:57.282Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca1a","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:57.593Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca20","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:57.891Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca32","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:58.202Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca38","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:58.496Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca3e","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:58.791Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca44","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:59.091Z] ERROR ❌ Error empresa {"empresaId":"69de974872d800e7f7af26e8","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:59.402Z] ERROR ❌ Error empresa {"empresaId":"69de987271aea2c5abdd8e5d","error":"cuitSafe is not defined"}
+[2026-04-21T15:06:59.698Z] ERROR ❌ Error empresa {"empresaId":"69e0d198792cafe9f987e5a0","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:00.162Z] INFO 🧾 Facturas pendientes: 9 
+[2026-04-21T15:07:00.460Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcbb","numero":"FAC-001490","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:00.754Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcc2","numero":"FAC-001491","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:01.064Z] ERROR ❌ Error factura {"facturaId":"69e78f4f169525128f3dbcc8","numero":"FAC-001492","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:01.376Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcce","numero":"FAC-001493","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:01.686Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcd4","numero":"FAC-001494","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:01.983Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce3","numero":"FAC-001495","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:02.294Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce9","numero":"FAC-001496","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:02.602Z] ERROR ❌ Error factura {"facturaId":"69e78f54169525128f3dbcf3","numero":"FAC-001497","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:02.916Z] ERROR ❌ Error factura {"facturaId":"69e78f5a169525128f3dbd2c","numero":"FAC-001498","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:02.916Z] ERROR Error cerrando conexión {}
+[2026-04-21T15:07:19.441Z] INFO 🔥 Conectado a Access 
+[2026-04-21T15:07:19.916Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T15:07:20.268Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:20.597Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:20.919Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:21.233Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:21.542Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:21.856Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:22.165Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:22.479Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:22.790Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:23.102Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:23.412Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:23.754Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:24.097Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9e0","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:24.408Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9ec","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:24.719Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f2","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:25.031Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f8","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:25.338Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9fe","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:25.647Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca04","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:25.964Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0a","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:26.275Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0e","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:26.587Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca14","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:26.898Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca1a","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:27.209Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca20","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:27.508Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca32","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:27.819Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca38","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:28.133Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca3e","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:28.445Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca44","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:28.758Z] ERROR ❌ Error empresa {"empresaId":"69de974872d800e7f7af26e8","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:29.069Z] ERROR ❌ Error empresa {"empresaId":"69de987271aea2c5abdd8e5d","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:29.380Z] ERROR ❌ Error empresa {"empresaId":"69e0d198792cafe9f987e5a0","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:29.866Z] INFO 🧾 Facturas pendientes: 9 
+[2026-04-21T15:07:30.171Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcbb","numero":"FAC-001490","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:30.469Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcc2","numero":"FAC-001491","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:30.782Z] ERROR ❌ Error factura {"facturaId":"69e78f4f169525128f3dbcc8","numero":"FAC-001492","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:31.078Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcce","numero":"FAC-001493","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:31.390Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcd4","numero":"FAC-001494","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:31.687Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce3","numero":"FAC-001495","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:31.984Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce9","numero":"FAC-001496","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:32.280Z] ERROR ❌ Error factura {"facturaId":"69e78f54169525128f3dbcf3","numero":"FAC-001497","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:32.578Z] ERROR ❌ Error factura {"facturaId":"69e78f5a169525128f3dbd2c","numero":"FAC-001498","error":"cuitSafe is not defined"}
+[2026-04-21T15:07:32.578Z] ERROR Error cerrando conexión {}
+[2026-04-21T15:10:04.894Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T15:10:04.900Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T15:10:34.920Z] INFO 🔥 Conectado a Access 
+[2026-04-21T15:10:35.473Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T15:10:36.135Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:36.446Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:36.756Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:37.052Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:37.362Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:37.659Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:37.956Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:38.265Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:38.579Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:38.873Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:39.172Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:39.466Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:39.762Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9e0","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:40.072Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9ec","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:40.370Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f2","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:40.685Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f8","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:40.994Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9fe","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:41.290Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca04","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:41.601Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0a","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:41.900Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0e","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:42.194Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca14","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:42.507Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca1a","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:42.817Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca20","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:43.115Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca32","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:43.425Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca38","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:43.721Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca3e","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:44.018Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca44","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:44.331Z] ERROR ❌ Error empresa {"empresaId":"69de974872d800e7f7af26e8","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:44.643Z] ERROR ❌ Error empresa {"empresaId":"69de987271aea2c5abdd8e5d","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:44.954Z] ERROR ❌ Error empresa {"empresaId":"69e0d198792cafe9f987e5a0","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:45.411Z] INFO 🧾 Facturas pendientes: 9 
+[2026-04-21T15:10:45.716Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcbb","numero":"FAC-001490","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:46.012Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcc2","numero":"FAC-001491","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:46.321Z] ERROR ❌ Error factura {"facturaId":"69e78f4f169525128f3dbcc8","numero":"FAC-001492","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:46.635Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcce","numero":"FAC-001493","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:46.945Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcd4","numero":"FAC-001494","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:47.258Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce3","numero":"FAC-001495","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:47.556Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce9","numero":"FAC-001496","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:47.867Z] ERROR ❌ Error factura {"facturaId":"69e78f54169525128f3dbcf3","numero":"FAC-001497","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:48.179Z] ERROR ❌ Error factura {"facturaId":"69e78f5a169525128f3dbd2c","numero":"FAC-001498","error":"cuitSafe is not defined"}
+[2026-04-21T15:10:48.179Z] ERROR Error cerrando conexión {}
+[2026-04-21T15:11:29.982Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T15:11:29.988Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T15:12:00.020Z] INFO 🔥 Conectado a Access 
+[2026-04-21T15:12:00.839Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T15:12:03.503Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:04.125Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:04.733Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:05.341Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:05.947Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:06.565Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:07.237Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:07.843Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:08.450Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:09.074Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:09.681Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:10.287Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:10.910Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9e0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:11.536Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9ec","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:12.125Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:12.733Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:13.403Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9fe","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:14.023Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca04","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:14.628Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:15.238Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:15.836Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca14","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:16.458Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca1a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:17.077Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca20","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:17.698Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca32","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:18.305Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca38","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:18.896Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca3e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:19.488Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca44","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:20.095Z] ERROR ❌ Error empresa {"empresaId":"69de974872d800e7f7af26e8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:20.699Z] ERROR ❌ Error empresa {"empresaId":"69de987271aea2c5abdd8e5d","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:21.295Z] ERROR ❌ Error empresa {"empresaId":"69e0d198792cafe9f987e5a0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:21.766Z] INFO 🧾 Facturas pendientes: 9 
+[2026-04-21T15:12:22.381Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcbb","numero":"FAC-001490","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:22.988Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcc2","numero":"FAC-001491","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:23.594Z] ERROR ❌ Error factura {"facturaId":"69e78f4f169525128f3dbcc8","numero":"FAC-001492","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:24.198Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcce","numero":"FAC-001493","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:24.791Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcd4","numero":"FAC-001494","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:25.400Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce3","numero":"FAC-001495","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:25.991Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce9","numero":"FAC-001496","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:26.601Z] ERROR ❌ Error factura {"facturaId":"69e78f54169525128f3dbcf3","numero":"FAC-001497","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:27.207Z] ERROR ❌ Error factura {"facturaId":"69e78f5a169525128f3dbd2c","numero":"FAC-001498","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:27.208Z] ERROR Error cerrando conexión {}
+[2026-04-21T15:12:30.021Z] INFO 🔥 Conectado a Access 
+[2026-04-21T15:12:30.494Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T15:12:31.126Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:31.747Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:32.356Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:33.011Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:33.620Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:34.227Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:34.847Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:35.438Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:36.034Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:36.642Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:37.299Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:37.905Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:38.526Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9e0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:39.136Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9ec","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:39.744Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:40.354Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:40.959Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9fe","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:41.567Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca04","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:42.189Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:42.795Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:43.387Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca14","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:43.995Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca1a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:44.601Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca20","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:12:45.225Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca32","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:22:22.381Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T15:22:22.387Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T15:22:52.411Z] INFO 🔥 Conectado a Access 
+[2026-04-21T15:22:52.974Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T15:22:53.964Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:22:54.569Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:22:55.193Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:22:55.816Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:22:56.421Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:22:57.046Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:22:57.651Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:22:58.258Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:22:58.884Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:22:59.504Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:00.123Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:00.745Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:01.368Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9e0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:01.993Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9ec","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:02.616Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:03.225Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:03.819Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9fe","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:04.441Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca04","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:05.063Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:05.686Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:06.344Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca14","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:06.965Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca1a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:07.591Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca20","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:08.225Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca32","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:08.833Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca38","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:09.476Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca3e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:10.148Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca44","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:10.771Z] ERROR ❌ Error empresa {"empresaId":"69de974872d800e7f7af26e8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:11.408Z] ERROR ❌ Error empresa {"empresaId":"69de987271aea2c5abdd8e5d","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:12.033Z] ERROR ❌ Error empresa {"empresaId":"69e0d198792cafe9f987e5a0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:12.518Z] INFO 🧾 Facturas pendientes: 9 
+[2026-04-21T15:23:13.140Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcbb","numero":"FAC-001490","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:13.761Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcc2","numero":"FAC-001491","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:23:14.384Z] ERROR ❌ Error factura {"facturaId":"69e78f4f169525128f3dbcc8","numero":"FAC-001492","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:24:12.237Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T15:24:12.243Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T15:25:48.101Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T15:25:48.107Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T15:26:18.133Z] INFO 🔥 Conectado a Access 
+[2026-04-21T15:26:18.964Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T15:26:19.910Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:20.544Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:21.182Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:21.790Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:22.400Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:23.008Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:23.617Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:24.229Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:24.851Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:25.455Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:26.067Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:26.677Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:27.280Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9e0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:27.904Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9ec","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:28.516Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:29.124Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:29.748Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9fe","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:30.369Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca04","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:30.977Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:31.585Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:32.195Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca14","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:32.801Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca1a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:33.423Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca20","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:34.043Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca32","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:34.664Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca38","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:35.287Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca3e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:35.893Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca44","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:36.515Z] ERROR ❌ Error empresa {"empresaId":"69de974872d800e7f7af26e8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:37.123Z] ERROR ❌ Error empresa {"empresaId":"69de987271aea2c5abdd8e5d","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:37.742Z] ERROR ❌ Error empresa {"empresaId":"69e0d198792cafe9f987e5a0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:38.249Z] INFO 🧾 Facturas pendientes: 9 
+[2026-04-21T15:26:38.868Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcbb","numero":"FAC-001490","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:39.488Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcc2","numero":"FAC-001491","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:40.096Z] ERROR ❌ Error factura {"facturaId":"69e78f4f169525128f3dbcc8","numero":"FAC-001492","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:40.701Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcce","numero":"FAC-001493","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:41.324Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcd4","numero":"FAC-001494","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:41.931Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce3","numero":"FAC-001495","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:42.553Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce9","numero":"FAC-001496","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:43.148Z] ERROR ❌ Error factura {"facturaId":"69e78f54169525128f3dbcf3","numero":"FAC-001497","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:43.768Z] ERROR ❌ Error factura {"facturaId":"69e78f5a169525128f3dbd2c","numero":"FAC-001498","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:26:43.768Z] ERROR Error cerrando conexión {}
+[2026-04-21T15:28:45.053Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T15:28:45.060Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T15:29:15.074Z] INFO 🔥 Conectado a Access 
+[2026-04-21T15:29:16.026Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T15:29:16.963Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:29:17.584Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:29:18.190Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:29:18.797Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:29:19.405Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:29:20.013Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:29:20.633Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:29:21.244Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:29:21.850Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:39:29.000Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T15:39:29.007Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T15:39:59.021Z] INFO 🔥 Conectado a Access 
+[2026-04-21T15:39:59.864Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T15:40:00.884Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:40:01.710Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:40:02.331Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:40:02.939Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:40:03.550Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:40:04.204Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:40:04.828Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:40:05.449Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:40:06.058Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:46:29.747Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T15:46:29.753Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T15:46:59.770Z] INFO 🔥 Conectado a Access 
+[2026-04-21T15:46:59.904Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T15:47:00.967Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:01.588Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:02.210Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:02.835Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:03.442Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:04.048Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:04.671Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:05.292Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:05.901Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:06.525Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:07.148Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:07.772Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:08.394Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9e0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:09.020Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9ec","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:09.628Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:10.239Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:10.861Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9fe","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:11.486Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca04","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:47:12.093Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:51:41.656Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T15:51:41.663Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T15:52:11.679Z] INFO 🔥 Conectado a Access 
+[2026-04-21T15:52:11.806Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T15:52:12.896Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:13.515Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:14.138Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:14.759Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:15.379Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:15.991Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:16.614Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:17.225Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:17.907Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:18.518Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:19.140Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:19.758Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:20.383Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9e0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:21.005Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9ec","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:21.627Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:22.251Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:22.875Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9fe","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:23.485Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca04","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:24.094Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:24.713Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:25.337Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca14","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:25.959Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca1a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:26.569Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca20","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:27.190Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca32","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:27.799Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca38","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:28.423Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca3e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:29.044Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca44","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:29.665Z] ERROR ❌ Error empresa {"empresaId":"69de974872d800e7f7af26e8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:30.287Z] ERROR ❌ Error empresa {"empresaId":"69de987271aea2c5abdd8e5d","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:30.908Z] ERROR ❌ Error empresa {"empresaId":"69e0d198792cafe9f987e5a0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:31.002Z] INFO 🧾 Facturas pendientes: 9 
+[2026-04-21T15:52:31.609Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcbb","numero":"FAC-001490","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:32.217Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcc2","numero":"FAC-001491","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:32.812Z] ERROR ❌ Error factura {"facturaId":"69e78f4f169525128f3dbcc8","numero":"FAC-001492","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:33.435Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcce","numero":"FAC-001493","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:34.058Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcd4","numero":"FAC-001494","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:34.699Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce3","numero":"FAC-001495","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:52:35.335Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce9","numero":"FAC-001496","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T15:59:45.221Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T15:59:45.227Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T16:00:15.255Z] INFO 🔥 Conectado a Access 
+[2026-04-21T16:00:15.370Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T16:00:16.387Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:17.026Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:17.652Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:18.273Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:18.881Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:19.491Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:20.100Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:20.711Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:21.334Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:21.959Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:22.579Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:23.173Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:23.798Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9e0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:24.416Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9ec","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:25.027Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:25.650Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:26.278Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9fe","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:26.898Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca04","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:27.506Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:28.129Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca0e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:28.749Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca14","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:29.358Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca1a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:29.981Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca20","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:30.604Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca32","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:31.224Z] ERROR ❌ Error empresa {"empresaId":"69c96be6dc2ef22f06e6ca38","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:31.845Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca3e","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:32.464Z] ERROR ❌ Error empresa {"empresaId":"69c96be7dc2ef22f06e6ca44","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:33.091Z] ERROR ❌ Error empresa {"empresaId":"69de974872d800e7f7af26e8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:33.700Z] ERROR ❌ Error empresa {"empresaId":"69de987271aea2c5abdd8e5d","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:34.324Z] ERROR ❌ Error empresa {"empresaId":"69e0d198792cafe9f987e5a0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:34.411Z] INFO 🧾 Facturas pendientes: 9 
+[2026-04-21T16:00:35.039Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcbb","numero":"FAC-001490","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:35.663Z] ERROR ❌ Error factura {"facturaId":"69e78f4e169525128f3dbcc2","numero":"FAC-001491","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:36.286Z] ERROR ❌ Error factura {"facturaId":"69e78f4f169525128f3dbcc8","numero":"FAC-001492","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:36.908Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcce","numero":"FAC-001493","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:37.517Z] ERROR ❌ Error factura {"facturaId":"69e78f50169525128f3dbcd4","numero":"FAC-001494","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:38.141Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce3","numero":"FAC-001495","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:38.764Z] ERROR ❌ Error factura {"facturaId":"69e78f52169525128f3dbce9","numero":"FAC-001496","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:39.374Z] ERROR ❌ Error factura {"facturaId":"69e78f54169525128f3dbcf3","numero":"FAC-001497","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:39.997Z] ERROR ❌ Error factura {"facturaId":"69e78f5a169525128f3dbd2c","numero":"FAC-001498","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:00:39.997Z] ERROR Error cerrando conexión {}
+[2026-04-21T16:02:16.100Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T16:02:16.106Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T16:02:46.126Z] INFO 🔥 Conectado a Access 
+[2026-04-21T16:02:46.258Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T16:02:47.256Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:02:47.894Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:02:48.516Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:02:49.138Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:02:49.762Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:02:50.388Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:02:51.009Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:02:51.615Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:02:52.236Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:02:52.863Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:02:53.484Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:02:54.110Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:16.696Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T16:12:16.703Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T16:12:46.720Z] INFO 🔥 Conectado a Access 
+[2026-04-21T16:12:46.854Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T16:12:47.863Z] ERROR ❌ Error empresa {"empresaId":"69367274ee8e30c3f7ba517a","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:48.482Z] ERROR ❌ Error empresa {"empresaId":"69a2db8b94ae3faa031c0a9f","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:49.105Z] ERROR ❌ Error empresa {"empresaId":"69c96be1dc2ef22f06e6c9a6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:49.726Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9ac","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:50.367Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:50.987Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9b6","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:51.609Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9bc","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:52.232Z] ERROR ❌ Error empresa {"empresaId":"69c96be2dc2ef22f06e6c9c2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:52.932Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9c8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:53.558Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9ce","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:54.181Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9d4","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:54.791Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9da","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:55.417Z] ERROR ❌ Error empresa {"empresaId":"69c96be3dc2ef22f06e6c9e0","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:56.039Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9ec","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:56.663Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f2","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:57.286Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9f8","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:57.907Z] ERROR ❌ Error empresa {"empresaId":"69c96be4dc2ef22f06e6c9fe","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:12:58.530Z] ERROR ❌ Error empresa {"empresaId":"69c96be5dc2ef22f06e6ca04","error":"Spawn C:\\Windows\\System32\\cscript.exe error"}
+[2026-04-21T16:13:35.182Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T16:13:35.188Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T16:14:05.418Z] INFO 🔥 Conectado a Access 
+[2026-04-21T16:14:05.531Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T16:14:06.047Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:06.098Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:06.148Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:06.197Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:06.247Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:06.297Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:06.347Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:06.397Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:06.447Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:06.498Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:06.545Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:06.598Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:06.647Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:06.697Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:06.747Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:06.797Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:06.848Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:06.897Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:06.946Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:06.998Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:07.047Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:07.096Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:07.147Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:07.197Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:07.247Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:07.298Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:07.347Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:07.397Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:07.447Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:07.497Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:14:07.585Z] INFO 🧾 Facturas pendientes: 9 
+[2026-04-21T16:14:07.678Z] INFO ✅ Factura OK [object Object]
+[2026-04-21T16:14:07.727Z] INFO ✅ Factura OK [object Object]
+[2026-04-21T16:14:07.777Z] INFO ✅ Factura OK [object Object]
+[2026-04-21T16:14:07.829Z] INFO ✅ Factura OK [object Object]
+[2026-04-21T16:14:07.876Z] INFO ✅ Factura OK [object Object]
+[2026-04-21T16:14:07.924Z] INFO ✅ Factura OK [object Object]
+[2026-04-21T16:14:07.980Z] INFO ✅ Factura OK [object Object]
+[2026-04-21T16:14:08.028Z] INFO ✅ Factura OK [object Object]
+[2026-04-21T16:14:08.078Z] INFO ✅ Factura OK [object Object]
+[2026-04-21T16:14:08.170Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-21T16:24:26.870Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T16:24:26.877Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T16:24:57.089Z] INFO 🔥 Conectado a Access 
+[2026-04-21T16:25:26.887Z] WARN ⛔ Sync ya en ejecución 
+[2026-04-21T16:25:27.139Z] ERROR 💥 ERROR GENERAL SYNC timeout of 30000ms exceeded
+[2026-04-21T16:25:27.190Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-21T16:25:57.051Z] INFO 🔥 Conectado a Access 
+[2026-04-21T16:26:26.916Z] WARN ⛔ Sync ya en ejecución 
+[2026-04-21T16:26:27.057Z] ERROR 💥 ERROR GENERAL SYNC timeout of 30000ms exceeded
+[2026-04-21T16:26:27.105Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-21T16:30:25.156Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T16:30:25.163Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T16:30:55.391Z] INFO 🔥 Conectado a Access 
+[2026-04-21T16:30:56.123Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T16:30:56.542Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:30:56.872Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:30:57.212Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:30:57.825Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:30:58.135Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:30:58.443Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:30:58.803Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:30:59.134Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:30:59.460Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:30:59.786Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:00.098Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:00.421Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:00.745Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:01.057Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:01.369Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:01.699Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:02.016Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:02.316Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:02.643Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:02.957Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:03.281Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:03.609Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:03.922Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:04.228Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:04.589Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:04.913Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:05.244Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:05.564Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:05.879Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:06.200Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:06.508Z] INFO 🧾 Facturas pendientes: 0 
+[2026-04-21T16:31:06.559Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-21T16:31:25.316Z] INFO 🔥 Conectado a Access 
+[2026-04-21T16:31:25.820Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T16:31:26.121Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:26.430Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:26.736Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:27.049Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:27.351Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:27.652Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:27.965Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:28.279Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:28.592Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:28.917Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:29.238Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:29.659Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:29.972Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:30.271Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:30.579Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:30.877Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:31.180Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:31.485Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:31.788Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:32.095Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:32.423Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:32.731Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:33.048Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:33.353Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:33.658Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:33.956Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:34.262Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:34.566Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:34.890Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:35.200Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:31:35.510Z] INFO 🧾 Facturas pendientes: 0 
+[2026-04-21T16:31:35.566Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-21T16:32:59.787Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T16:32:59.793Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T16:33:30.017Z] INFO 🔥 Conectado a Access 
+[2026-04-21T16:33:30.552Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T16:33:30.879Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:31.197Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:31.533Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:31.862Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:32.422Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:32.817Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:33.125Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:33.723Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:34.024Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:34.377Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:34.700Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:35.009Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:35.321Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:35.651Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:35.976Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:36.287Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:36.589Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:36.904Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:37.216Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:37.521Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:37.839Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:38.158Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:38.493Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:38.796Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:39.100Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:39.412Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:39.735Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:40.040Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:40.344Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:40.644Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:33:41.055Z] INFO 🧾 Facturas pendientes: 9 
+[2026-04-21T16:33:41.374Z] INFO ✅ Factura OK [object Object]
+[2026-04-21T16:33:41.695Z] INFO ✅ Factura OK [object Object]
+[2026-04-21T16:33:42.006Z] INFO ✅ Factura OK [object Object]
+[2026-04-21T16:33:42.318Z] INFO ✅ Factura OK [object Object]
+[2026-04-21T16:33:42.635Z] INFO ✅ Factura OK [object Object]
+[2026-04-21T16:33:42.939Z] INFO ✅ Factura OK [object Object]
+[2026-04-21T16:33:43.244Z] INFO ✅ Factura OK [object Object]
+[2026-04-21T16:33:43.588Z] INFO ✅ Factura OK [object Object]
+[2026-04-21T16:33:43.894Z] INFO ✅ Factura OK [object Object]
+[2026-04-21T16:33:43.957Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-21T16:34:01.349Z] INFO 🔥 Conectado a Access 
+[2026-04-21T16:34:01.805Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T16:34:02.109Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:02.411Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:02.724Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:03.042Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:03.377Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:03.714Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:04.078Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:04.423Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:04.740Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:05.056Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:05.359Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:05.663Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:06.008Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:06.362Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:09.794Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:10.153Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:10.465Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:10.770Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:11.079Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:11.394Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:11.749Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:12.048Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:12.352Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:12.787Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:13.109Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:13.451Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:13.765Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:14.126Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:14.431Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:14.738Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T16:34:15.027Z] INFO 🧾 Facturas pendientes: 0 
+[2026-04-21T16:34:15.083Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-21T17:28:29.555Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T17:28:29.562Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T17:28:59.787Z] INFO 🔥 Conectado a Access 
+[2026-04-21T17:29:29.573Z] WARN ⛔ Sync ya en ejecución 
+[2026-04-21T17:29:59.580Z] WARN ⛔ Sync ya en ejecución 
+[2026-04-21T17:30:29.586Z] WARN ⛔ Sync ya en ejecución 
+[2026-04-21T17:30:32.583Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T17:30:33.002Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:33.346Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:33.671Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:34.296Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:34.607Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:34.927Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:35.237Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:35.543Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:35.886Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:36.230Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:36.549Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:36.877Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:37.580Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:37.889Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:38.679Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:38.996Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:39.577Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:40.203Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:40.546Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:40.856Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:41.184Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:41.523Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:41.838Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:42.374Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:42.700Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:43.020Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:43.344Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:43.708Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:44.047Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:44.376Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:30:44.775Z] INFO 🧾 Facturas pendientes: 0 
+[2026-04-21T17:30:44.835Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-21T17:30:59.725Z] INFO 🔥 Conectado a Access 
+[2026-04-21T17:31:00.286Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T17:31:00.647Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:00.973Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:01.308Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:01.627Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:01.950Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:02.281Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:02.649Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:02.968Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:03.293Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:03.627Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:03.966Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:04.285Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:04.624Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:04.945Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:05.356Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:05.693Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:06.003Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:06.328Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:06.647Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:06.960Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:07.282Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:07.654Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:07.966Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:08.282Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:08.647Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:08.951Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:09.257Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:09.616Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:09.934Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:10.269Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T17:31:10.582Z] INFO 🧾 Facturas pendientes: 0 
+[2026-04-21T17:31:10.636Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-21T18:20:18.313Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T18:20:18.320Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T18:20:48.538Z] INFO 🔥 Conectado a Access 
+[2026-04-21T18:21:18.342Z] WARN ⛔ Sync ya en ejecución 
+[2026-04-21T18:21:47.611Z] WARN ⛔ Sync ya en ejecución 
+[2026-04-21T18:21:48.355Z] WARN ⛔ Sync ya en ejecución 
+[2026-04-21T18:22:11.671Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T18:22:11.678Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T18:22:41.904Z] INFO 🔥 Conectado a Access 
+[2026-04-21T18:22:41.907Z] ERROR 💥 ERROR GENERAL SYNC Unsupported protocol localhost:
+[2026-04-21T18:22:41.955Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-21T18:23:11.860Z] INFO 🔥 Conectado a Access 
+[2026-04-21T18:23:11.861Z] ERROR 💥 ERROR GENERAL SYNC Unsupported protocol localhost:
+[2026-04-21T18:23:11.907Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-21T18:23:41.857Z] INFO 🔥 Conectado a Access 
+[2026-04-21T18:23:41.858Z] ERROR 💥 ERROR GENERAL SYNC Unsupported protocol localhost:
+[2026-04-21T18:23:41.955Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-21T18:23:51.747Z] INFO 🔥 Conectado a Access 
+[2026-04-21T18:23:51.748Z] ERROR 💥 ERROR GENERAL SYNC Unsupported protocol localhost:
+[2026-04-21T18:23:51.794Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-21T18:26:52.273Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T18:26:52.279Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T18:27:22.042Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T18:27:22.049Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T18:27:52.263Z] INFO 🔥 Conectado a Access 
+[2026-04-21T18:27:52.314Z] ERROR 💥 ERROR GENERAL SYNC write EPROTO 6C200000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+[2026-04-21T18:27:52.369Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-21T18:28:22.191Z] INFO 🔥 Conectado a Access 
+[2026-04-21T18:28:22.196Z] ERROR 💥 ERROR GENERAL SYNC write EPROTO 6C200000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+[2026-04-21T18:28:22.247Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-21T18:30:29.640Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T18:30:29.647Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T18:30:59.871Z] INFO 🔥 Conectado a Access 
+[2026-04-21T18:30:59.987Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T18:31:00.057Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:00.110Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:00.160Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:00.210Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:00.258Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:00.307Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:00.360Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:00.409Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:00.460Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:00.509Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:00.560Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:00.610Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:00.660Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:00.710Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:00.761Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:00.809Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:00.859Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:00.914Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:00.962Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:01.009Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:01.060Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:01.134Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:01.189Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:01.241Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:01.290Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:01.347Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:01.400Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:01.449Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:01.498Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:01.548Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:01.595Z] INFO 🧾 Facturas pendientes: 0 
+[2026-04-21T18:31:01.664Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-21T18:31:29.796Z] INFO 🔥 Conectado a Access 
+[2026-04-21T18:31:29.895Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T18:31:29.945Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:29.995Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:30.044Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:30.094Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:30.145Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:30.191Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:30.247Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:30.295Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:30.345Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:30.396Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:30.443Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:30.490Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:30.537Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:30.584Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:30.662Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:30.724Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:30.778Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:30.825Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:30.873Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:30.924Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:30.974Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:31.024Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:31.074Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:31.124Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:31.174Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:31.224Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:31.274Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:31.326Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:31.374Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:31.422Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:31.488Z] INFO 🧾 Facturas pendientes: 0 
+[2026-04-21T18:31:31.557Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-21T18:31:41.312Z] INFO 🔥 Conectado a Access 
+[2026-04-21T18:31:41.405Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T18:31:41.480Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:41.534Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:41.584Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:41.643Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:41.694Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:41.743Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:41.794Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:41.843Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:41.893Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:41.944Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:41.993Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:42.045Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:42.093Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:42.143Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:42.193Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:42.245Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:42.293Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:42.343Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:42.393Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:42.444Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:42.492Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:42.544Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:42.593Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:42.643Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:42.693Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:42.743Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:42.794Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:42.843Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:42.893Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:42.944Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:42.989Z] INFO 🧾 Facturas pendientes: 0 
+[2026-04-21T18:31:43.056Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-21T18:31:46.916Z] INFO 🔥 Conectado a Access 
+[2026-04-21T18:31:47.001Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T18:31:47.050Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:47.101Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:47.153Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:47.201Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:47.254Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:47.301Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:47.352Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:47.402Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:47.451Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:47.501Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:47.552Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:47.600Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:47.650Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:47.701Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:47.751Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:47.802Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:47.852Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:47.901Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:47.951Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:48.000Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:48.051Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:48.103Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:48.152Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:48.198Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:48.258Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:48.303Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:48.351Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:48.401Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:48.450Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:48.501Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:48.547Z] INFO 🧾 Facturas pendientes: 0 
+[2026-04-21T18:31:48.607Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-21T18:31:59.802Z] INFO 🔥 Conectado a Access 
+[2026-04-21T18:31:59.891Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T18:31:59.940Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:31:59.988Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:00.039Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:00.088Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:00.139Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:00.186Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:00.239Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:00.288Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:00.340Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:00.390Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:00.480Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:00.536Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:00.582Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:00.628Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:00.679Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:00.729Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:00.779Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:00.829Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:00.878Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:00.930Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:00.980Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:01.029Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:01.080Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:01.129Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:01.175Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:01.229Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:01.278Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:01.330Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:01.383Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:01.430Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:01.475Z] INFO 🧾 Facturas pendientes: 0 
+[2026-04-21T18:32:01.534Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-21T18:32:29.812Z] INFO 🔥 Conectado a Access 
+[2026-04-21T18:32:29.896Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T18:32:29.945Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:29.995Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:30.044Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:30.095Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:30.144Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:30.196Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:30.244Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:30.291Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:30.337Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:30.392Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:30.445Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:30.494Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:30.545Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:30.593Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:30.644Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:30.688Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:30.735Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:30.785Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:30.835Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:30.885Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:30.934Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:30.986Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:31.035Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:31.085Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:31.136Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:31.185Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:31.235Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:31.291Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:31.344Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:31.395Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:32:31.441Z] INFO 🧾 Facturas pendientes: 0 
+[2026-04-21T18:32:31.499Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-21T18:32:59.823Z] INFO 🔥 Conectado a Access 
+[2026-04-21T18:32:59.923Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T18:32:59.971Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:00.020Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:00.077Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:00.130Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:00.180Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:00.231Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:00.280Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:00.331Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:00.381Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:00.431Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:00.480Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:00.530Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:00.579Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:00.630Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:00.680Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:00.731Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:00.780Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:00.830Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:00.879Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:00.930Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:00.981Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:01.030Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:01.080Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:01.129Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:01.181Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:01.228Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:01.281Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:01.330Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:01.380Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:01.427Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:01.467Z] INFO 🧾 Facturas pendientes: 0 
+[2026-04-21T18:33:01.525Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-21T18:33:29.836Z] INFO 🔥 Conectado a Access 
+[2026-04-21T18:33:29.941Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T18:33:29.991Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:30.036Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:30.085Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:30.136Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:30.186Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:30.234Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:30.286Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:30.336Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:30.386Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:30.433Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:30.486Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:30.535Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:30.586Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:30.631Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:30.675Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:30.726Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:30.776Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:30.826Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:30.871Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:30.925Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:30.975Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:31.027Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:31.073Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:31.124Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:31.176Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:31.226Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:31.273Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:31.319Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:31.366Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:31.416Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:33:31.506Z] INFO 🧾 Facturas pendientes: 8 
+[2026-04-21T18:33:31.575Z] INFO ✅ Factura OK [object Object]
+[2026-04-21T18:33:31.626Z] INFO ✅ Factura OK [object Object]
+[2026-04-21T18:33:31.673Z] INFO ✅ Factura OK [object Object]
+[2026-04-21T18:33:31.725Z] INFO ✅ Factura OK [object Object]
+[2026-04-21T18:33:31.776Z] INFO ✅ Factura OK [object Object]
+[2026-04-21T18:33:31.826Z] INFO ✅ Factura OK [object Object]
+[2026-04-21T18:33:31.886Z] INFO ✅ Factura OK [object Object]
+[2026-04-21T18:33:31.935Z] INFO ✅ Factura OK [object Object]
+[2026-04-21T18:33:31.990Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-21T18:38:35.682Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T18:38:35.688Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T18:39:51.001Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T18:39:51.007Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T18:41:40.939Z] INFO 🔥 Conectado a Access 
+[2026-04-21T18:41:41.057Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T18:41:41.130Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:41.181Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:41.231Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:41.283Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:41.342Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:41.390Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:41.440Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:41.488Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:41.540Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:41.592Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:41.640Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:41.691Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:41.740Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:41.790Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:41.839Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:41.890Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:41.940Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:41.990Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:42.040Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:42.090Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:42.140Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:42.190Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:42.240Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:42.290Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:42.340Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:42.391Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:42.440Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:42.490Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:42.539Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:42.592Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:41:42.686Z] INFO 🧾 Facturas pendientes: 1 
+[2026-04-21T18:41:42.741Z] INFO ✅ Factura OK [object Object]
+[2026-04-21T18:41:42.798Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-21T18:42:07.574Z] INFO 🔥 Conectado a Access 
+[2026-04-21T18:42:07.690Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T18:42:07.746Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:07.793Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:07.840Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:07.884Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:07.930Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:07.985Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:08.034Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:08.085Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:08.135Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:08.185Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:08.234Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:08.284Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:08.335Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:08.385Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:08.435Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:08.485Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:08.535Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:08.584Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:08.630Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:08.675Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:08.721Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:08.775Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:08.825Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:08.875Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:08.925Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:08.975Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:09.025Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:09.075Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:09.125Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:09.175Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:09.222Z] INFO 🧾 Facturas pendientes: 0 
+[2026-04-21T18:42:09.282Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-21T18:42:09.414Z] INFO 🔥 Conectado a Access 
+[2026-04-21T18:42:09.468Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T18:42:09.515Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:09.565Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:09.614Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:09.661Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:09.708Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:09.754Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:09.799Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:09.846Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:09.894Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:09.944Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:09.994Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:10.045Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:10.095Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:10.144Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:10.194Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:10.244Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:10.294Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:10.341Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:10.389Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:10.435Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:10.485Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:10.535Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:10.585Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:10.635Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:10.685Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:10.735Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:10.784Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:10.834Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:10.884Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:10.934Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T18:42:10.981Z] INFO 🧾 Facturas pendientes: 0 
+[2026-04-21T18:42:11.033Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-21T19:10:47.939Z] INFO 🚀 APP INICIANDO... 
+[2026-04-21T19:10:47.945Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-21T19:11:16.121Z] INFO 🔥 Conectado a Access 
+[2026-04-21T19:11:16.262Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T19:11:16.327Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:16.378Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:16.427Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:16.477Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:16.527Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:16.575Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:16.626Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:16.676Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:16.726Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:16.776Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:16.826Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:16.876Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:16.927Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:16.977Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:17.025Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:17.077Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:17.126Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:17.177Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:17.225Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:17.276Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:17.323Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:17.369Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:17.416Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:17.468Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:17.516Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:17.565Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:17.622Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:17.681Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:17.730Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:17.788Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:11:17.878Z] INFO 🧾 Facturas pendientes: 1 
+[2026-04-21T19:11:17.930Z] INFO ✅ Factura OK [object Object]
+[2026-04-21T19:11:17.995Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-21T19:16:41.361Z] INFO 🔥 Conectado a Access 
+[2026-04-21T19:16:41.469Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-21T19:16:41.532Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:41.584Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:41.635Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:41.685Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:41.734Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:41.784Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:41.830Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:41.883Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:41.936Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:41.984Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:42.034Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:42.084Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:42.135Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:42.185Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:42.234Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:42.285Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:42.333Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:42.389Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:42.445Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:42.494Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:42.544Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:42.595Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:42.645Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:42.695Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:42.744Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:42.795Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:42.845Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:42.894Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:42.945Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:42.994Z] INFO ✅ Empresa OK [object Object]
+[2026-04-21T19:16:43.041Z] INFO 🧾 Facturas pendientes: 0 
+[2026-04-21T19:16:43.088Z] INFO 🔌 Conexión Access cerrada 
