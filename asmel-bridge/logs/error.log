@@ -570,3 +570,9 @@
 
 [2026-04-21T18:28:22.196Z] ERROR 💥 ERROR GENERAL SYNC write EPROTO 6C200000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
 
+[2026-04-25T11:23:24.859Z] ERROR ❌ Error consultando sync-request Request failed with status code 404
+[2026-04-25T11:23:29.783Z] ERROR ❌ Error consultando sync-request Request failed with status code 404
+[2026-04-25T12:45:56.366Z] ERROR ❌ Error consultando sync-request timeout of 5000ms exceeded
+[2026-04-25T12:46:01.373Z] ERROR ❌ Error consultando sync-request timeout of 5000ms exceeded
+[2026-04-25T12:46:06.386Z] ERROR ❌ Error consultando sync-request timeout of 5000ms exceeded
+[2026-04-25T12:46:11.397Z] ERROR ❌ Error consultando sync-request timeout of 5000ms exceeded

@@ -1597,3 +1597,530 @@
 [2026-04-21T19:16:42.994Z] INFO ✅ Empresa OK [object Object]
 [2026-04-21T19:16:43.041Z] INFO 🧾 Facturas pendientes: 0 
 [2026-04-21T19:16:43.088Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-22T00:05:56.948Z] INFO 🚀 APP INICIANDO... 
+[2026-04-22T00:05:56.950Z] INFO 🧠 MODO SYNC: MANUAL 
+[2026-04-22T00:05:56.955Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-24T20:00:05.270Z] INFO 🚀 APP INICIANDO... 
+[2026-04-24T20:00:05.272Z] INFO 🧠 MODO SYNC: MANUAL 
+[2026-04-24T20:00:05.382Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-24T20:36:30.740Z] INFO 🚀 APP INICIANDO... 
+[2026-04-24T20:36:30.742Z] INFO 🧠 MODO SYNC: MANUAL 
+[2026-04-24T20:36:30.747Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-24T21:38:24.358Z] INFO 🚀 APP INICIANDO... 
+[2026-04-24T21:38:24.359Z] INFO 🧠 MODO SYNC: MANUAL 
+[2026-04-24T21:38:24.364Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-25T10:47:59.243Z] INFO 🔥 Conectado a Access 
+[2026-04-25T10:47:59.948Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-25T10:48:00.623Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:00.940Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:01.247Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:01.557Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:01.883Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:02.194Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:02.523Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:02.828Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:03.140Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:03.445Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:03.758Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:04.359Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:04.666Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:04.959Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:05.259Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:05.560Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:05.867Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:06.172Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:06.487Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:06.811Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:07.205Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:07.512Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:07.825Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:08.136Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:08.457Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:08.798Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:09.105Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:09.414Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:09.732Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:10.028Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:48:10.477Z] INFO 🧾 Facturas pendientes: 9 
+[2026-04-25T10:48:10.865Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T10:48:11.173Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T10:48:11.484Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T10:48:11.795Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T10:48:12.116Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T10:48:12.415Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T10:48:12.730Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T10:48:13.058Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T10:48:13.357Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T10:48:13.484Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-25T10:49:22.821Z] INFO 🔥 Conectado a Access 
+[2026-04-25T10:49:23.289Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-25T10:49:23.600Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:23.912Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:24.202Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:24.502Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:25.089Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:25.400Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:25.704Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:26.012Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:26.332Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:26.650Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:26.946Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:27.253Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:27.550Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:27.854Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:28.151Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:28.464Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:28.759Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:29.056Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:29.355Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:29.675Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:29.972Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:30.297Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:30.595Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:30.906Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:31.205Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:31.508Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:31.813Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:32.135Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:32.442Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:32.773Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T10:49:33.089Z] INFO 🧾 Facturas pendientes: 0 
+[2026-04-25T10:49:33.179Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-25T11:05:03.678Z] INFO 🚀 APP INICIANDO... 
+[2026-04-25T11:05:03.684Z] INFO 🔁 Polling activo cada 30000 ms 
+[2026-04-25T11:05:03.685Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-25T11:05:33.687Z] INFO 🔄 Ejecutando sync automático... 
+[2026-04-25T11:05:33.926Z] INFO 🔥 Conectado a Access 
+[2026-04-25T11:06:03.698Z] INFO 🔄 Ejecutando sync automático... 
+[2026-04-25T11:06:03.699Z] WARN ⛔ Sync ya en ejecución 
+[2026-04-25T11:06:03.699Z] INFO ✅ Sync automático OK 
+[2026-04-25T11:06:33.713Z] INFO 🔄 Ejecutando sync automático... 
+[2026-04-25T11:06:33.713Z] WARN ⛔ Sync ya en ejecución 
+[2026-04-25T11:06:33.714Z] INFO ✅ Sync automático OK 
+[2026-04-25T11:06:56.610Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-25T11:06:57.331Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:06:57.658Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:06:57.982Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:06:58.325Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:06:58.720Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:06:59.024Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:06:59.333Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:06:59.651Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:06:59.989Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:00.306Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:00.628Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:00.937Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:01.249Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:01.561Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:01.874Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:02.174Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:02.489Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:02.803Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:03.104Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:03.593Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:03.727Z] INFO 🔄 Ejecutando sync automático... 
+[2026-04-25T11:07:03.728Z] WARN ⛔ Sync ya en ejecución 
+[2026-04-25T11:07:03.728Z] INFO ✅ Sync automático OK 
+[2026-04-25T11:07:04.198Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:04.520Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:04.915Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:05.602Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:05.904Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:06.211Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:06.585Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:06.898Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:07.242Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:07.560Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:07.866Z] INFO 🧾 Facturas pendientes: 0 
+[2026-04-25T11:07:07.951Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-25T11:07:07.951Z] INFO ✅ Sync automático OK 
+[2026-04-25T11:07:33.729Z] INFO 🔄 Ejecutando sync automático... 
+[2026-04-25T11:07:33.826Z] INFO 🔥 Conectado a Access 
+[2026-04-25T11:07:34.398Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-25T11:07:34.714Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:35.012Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:35.322Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:35.621Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:35.924Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:36.234Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:36.540Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:36.854Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:37.156Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:37.492Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:37.816Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:38.111Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:38.414Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:38.714Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:39.029Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:39.336Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:39.637Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:39.944Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:40.249Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:40.554Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:40.855Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:41.174Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:41.472Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:41.826Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:42.131Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:42.434Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:42.737Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:43.035Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:43.358Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:43.659Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:07:43.948Z] INFO 🧾 Facturas pendientes: 0 
+[2026-04-25T11:07:44.027Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-25T11:07:44.027Z] INFO ✅ Sync automático OK 
+[2026-04-25T11:08:03.731Z] INFO 🔄 Ejecutando sync automático... 
+[2026-04-25T11:08:03.830Z] INFO 🔥 Conectado a Access 
+[2026-04-25T11:08:04.405Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-25T11:08:04.704Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:05.011Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:05.350Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:05.654Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:05.953Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:06.254Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:06.557Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:06.886Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:07.295Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:07.586Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:07.902Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:08.205Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:08.503Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:08.800Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:09.116Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:09.411Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:09.710Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:10.017Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:10.308Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:10.603Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:10.900Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:11.198Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:11.503Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:11.834Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:12.166Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:12.464Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:12.772Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:13.074Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:13.376Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:13.669Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:13.956Z] INFO 🧾 Facturas pendientes: 0 
+[2026-04-25T11:08:14.042Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-25T11:08:14.042Z] INFO ✅ Sync automático OK 
+[2026-04-25T11:08:33.745Z] INFO 🔄 Ejecutando sync automático... 
+[2026-04-25T11:08:33.840Z] INFO 🔥 Conectado a Access 
+[2026-04-25T11:08:34.401Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-25T11:08:34.704Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:35.002Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:35.302Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:35.600Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:35.917Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:36.234Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:36.539Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:36.838Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:37.150Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:37.457Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:08:37.765Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:11:19.681Z] INFO 🚀 APP INICIANDO... 
+[2026-04-25T11:11:19.687Z] INFO 🔁 Polling activo cada 30000 ms 
+[2026-04-25T11:11:19.688Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-25T11:11:49.702Z] INFO 🔄 Ejecutando sync automático... 
+[2026-04-25T11:11:49.918Z] INFO 🔥 Conectado a Access 
+[2026-04-25T11:11:50.513Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-25T11:11:50.847Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:11:51.156Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:11:51.500Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:11:51.795Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:11:52.148Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:11:52.447Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:11:52.764Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:11:53.104Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:11:53.607Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:11:53.939Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:11:54.244Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:11:54.549Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:11:54.841Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:11:55.147Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:11:55.450Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:11:55.782Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:11:56.086Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:11:56.399Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:11:56.728Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:11:57.038Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:11:57.408Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:11:58.095Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:11:58.585Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:11:58.946Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:11:59.300Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:11:59.613Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:11:59.970Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:00.341Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:00.667Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:00.980Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:01.398Z] INFO 🧾 Facturas pendientes: 9 
+[2026-04-25T11:12:01.721Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T11:12:02.072Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T11:12:02.406Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T11:12:02.717Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T11:12:03.047Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T11:12:03.350Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T11:12:03.656Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T11:12:03.972Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T11:12:04.293Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T11:12:04.381Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-25T11:12:04.382Z] INFO ✅ Sync automático OK 
+[2026-04-25T11:12:19.710Z] INFO 🔄 Ejecutando sync automático... 
+[2026-04-25T11:12:19.809Z] INFO 🔥 Conectado a Access 
+[2026-04-25T11:12:20.288Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-25T11:12:20.601Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:20.908Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:21.220Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:21.558Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:21.870Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:22.174Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:22.506Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:22.813Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:23.129Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:23.476Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:23.791Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:24.098Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:24.411Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:24.726Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:25.022Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:25.343Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:25.657Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:26.019Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:26.344Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:26.797Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:27.115Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:27.423Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:27.810Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:28.127Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:28.475Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:28.800Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:29.104Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:29.423Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:29.733Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:30.045Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:30.354Z] INFO 🧾 Facturas pendientes: 0 
+[2026-04-25T11:12:30.435Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-25T11:12:30.435Z] INFO ✅ Sync automático OK 
+[2026-04-25T11:12:49.716Z] INFO 🔄 Ejecutando sync automático... 
+[2026-04-25T11:12:49.806Z] INFO 🔥 Conectado a Access 
+[2026-04-25T11:12:50.312Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-25T11:12:50.632Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:50.947Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:51.245Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:51.542Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:51.839Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:52.138Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:52.436Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:52.742Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:53.041Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:53.342Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:53.650Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:53.950Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:54.248Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:54.554Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:54.869Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:55.171Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:55.477Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:55.783Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:56.085Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:56.414Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:56.722Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:57.031Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:57.341Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:57.694Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:58.105Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:58.439Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:58.758Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:59.069Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:59.383Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:12:59.715Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:00.009Z] INFO 🧾 Facturas pendientes: 0 
+[2026-04-25T11:13:00.088Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-25T11:13:00.088Z] INFO ✅ Sync automático OK 
+[2026-04-25T11:13:19.721Z] INFO 🔄 Ejecutando sync automático... 
+[2026-04-25T11:13:19.826Z] INFO 🔥 Conectado a Access 
+[2026-04-25T11:13:20.314Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-25T11:13:20.626Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:20.932Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:21.242Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:21.550Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:21.854Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:22.163Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:22.463Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:22.894Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:23.194Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:23.508Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:23.822Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:24.253Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:24.555Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:24.864Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:25.175Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:25.476Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:25.789Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:26.115Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:26.414Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:26.722Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:27.022Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:27.332Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:27.651Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:27.957Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:28.280Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:28.591Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:28.897Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:29.202Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:29.505Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:29.816Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T11:13:30.113Z] INFO 🧾 Facturas pendientes: 0 
+[2026-04-25T11:13:30.195Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-25T11:13:30.196Z] INFO ✅ Sync automático OK 
+[2026-04-25T11:14:18.070Z] INFO 🚀 APP INICIANDO... 
+[2026-04-25T11:14:18.077Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-25T11:23:19.534Z] INFO 🚀 APP INICIANDO... 
+[2026-04-25T11:23:19.541Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-25T11:23:24.859Z] ERROR ❌ Error consultando sync-request Request failed with status code 404
+[2026-04-25T11:23:29.783Z] ERROR ❌ Error consultando sync-request Request failed with status code 404
+[2026-04-25T12:45:46.317Z] INFO 🚀 APP INICIANDO... 
+[2026-04-25T12:45:46.323Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-25T12:45:56.366Z] ERROR ❌ Error consultando sync-request timeout of 5000ms exceeded
+[2026-04-25T12:46:01.373Z] ERROR ❌ Error consultando sync-request timeout of 5000ms exceeded
+[2026-04-25T12:46:06.386Z] ERROR ❌ Error consultando sync-request timeout of 5000ms exceeded
+[2026-04-25T12:46:11.397Z] ERROR ❌ Error consultando sync-request timeout of 5000ms exceeded
+[2026-04-25T12:46:33.506Z] INFO 🚀 APP INICIANDO... 
+[2026-04-25T12:46:33.513Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-25T12:48:28.622Z] INFO 🚀 APP INICIANDO... 
+[2026-04-25T12:48:28.629Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-25T12:52:50.209Z] INFO 🔥 Conectado a Access 
+[2026-04-25T12:52:50.644Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-25T12:52:50.967Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:52:51.293Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:52:51.803Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:52:52.175Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:52:52.484Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:52:52.798Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:52:53.137Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:52:53.435Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:52:53.747Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:52:54.351Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:52:54.687Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:52:54.991Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:52:55.298Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:52:55.607Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:52:55.920Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:52:56.216Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:52:56.515Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:52:56.818Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:52:57.140Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:52:57.495Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:52:57.803Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:52:58.118Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:52:58.414Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:52:58.720Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:52:59.017Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:52:59.336Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:52:59.647Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:52:59.956Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:53:00.259Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:53:00.577Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T12:53:00.996Z] INFO 🧾 Facturas pendientes: 9 
+[2026-04-25T12:53:01.306Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T12:53:01.632Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T12:53:01.948Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T12:53:02.278Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T12:53:02.648Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T12:53:02.953Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T12:53:03.250Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T12:53:03.547Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T12:53:03.852Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T12:53:03.949Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-25T13:15:12.183Z] INFO 🚀 APP INICIANDO... 
+[2026-04-25T13:15:12.189Z] INFO Bridge corriendo en puerto 3001 
+[2026-04-25T13:48:05.445Z] INFO 🟢 Sync solicitada desde backend 
+[2026-04-25T13:48:05.663Z] INFO 🔥 Conectado a Access 
+[2026-04-25T13:48:06.132Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-25T13:48:06.477Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:06.782Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:07.081Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:07.385Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:07.684Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:08.010Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:08.315Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:08.629Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:08.934Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:09.237Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:09.537Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:09.834Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:10.133Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:10.447Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:10.475Z] INFO 🟢 Sync solicitada desde backend 
+[2026-04-25T13:48:10.475Z] WARN ⛔ Sync ya en ejecución 
+[2026-04-25T13:48:10.671Z] INFO ✅ Sync manual completada 
+[2026-04-25T13:48:10.749Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:11.062Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:11.380Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:11.682Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:12.119Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:12.816Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:13.130Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:13.531Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:14.217Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:14.578Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:14.873Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:15.179Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:15.480Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:15.782Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:16.077Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:16.391Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:48:16.686Z] INFO 🧾 Facturas pendientes: 0 
+[2026-04-25T13:48:16.776Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-25T13:48:16.948Z] INFO ✅ Sync manual completada 
+[2026-04-25T13:57:41.391Z] INFO 🟢 Sync solicitada desde backend 
+[2026-04-25T13:57:41.517Z] INFO 🔥 Conectado a Access 
+[2026-04-25T13:57:41.943Z] INFO 📦 Empresas pendientes: 30 
+[2026-04-25T13:57:42.247Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:42.543Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:42.834Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:43.126Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:43.419Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:43.722Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:44.028Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:44.329Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:44.622Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:44.920Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:45.216Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:45.505Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:45.802Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:46.106Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:46.400Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:46.411Z] INFO 🟢 Sync solicitada desde backend 
+[2026-04-25T13:57:46.411Z] WARN ⛔ Sync ya en ejecución 
+[2026-04-25T13:57:46.583Z] INFO ✅ Sync manual completada 
+[2026-04-25T13:57:46.693Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:46.989Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:47.290Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:47.585Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:47.914Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:48.209Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:48.502Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:48.819Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:49.129Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:49.422Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:49.716Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:50.007Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:50.311Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:50.599Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:50.908Z] INFO ✅ Empresa OK [object Object]
+[2026-04-25T13:57:51.337Z] INFO 🧾 Facturas pendientes: 9 
+[2026-04-25T13:57:51.638Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T13:57:51.946Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T13:57:52.242Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T13:57:52.540Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T13:57:52.835Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T13:57:53.130Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T13:57:53.438Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T13:57:53.739Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T13:57:54.041Z] INFO ✅ Factura OK [object Object]
+[2026-04-25T13:57:54.135Z] INFO 🔌 Conexión Access cerrada 
+[2026-04-25T13:57:54.306Z] INFO ✅ Sync manual completada 
