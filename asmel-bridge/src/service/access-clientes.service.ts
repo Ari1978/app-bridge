@@ -155,47 +155,31 @@ export async function insertarEmailClienteAccess(
   conn: odbc.Connection,
   empresa: EmpresaSyncDto,
 ): Promise<void> {
-  try {
-    const email = safe(
-      cleanString(
-        (empresa as any).emailFacturacion || (empresa as any).email1 || "",
-        100,
-      ),
-      100,
-    );
-    if (!email) return;
+  const numeroCliente = formatNumeroCliente(empresa.numeroCliente);
+  const destinatarios = (empresa.destinatarios ?? []).filter((d) => d.facturacion);
 
-    const numeroCliente = formatNumeroCliente(empresa.numeroCliente);
+  for (const dest of destinatarios) {
+    const email = safe(cleanString(dest.email, 100), 100);
+    if (!email) continue;
 
-    const checkSql = `
-      SELECT CLIENTE 
-      FROM EMAILSCLTE 
-      WHERE CLIENTE = '${numeroCliente}'
-      AND EMAIL = '${email}' 
-      AND TIPO = 'FE'
-    `;
+    try {
+      const existe = await conn.query(`
+        SELECT CLIENTE FROM EMAILSCLTE
+        WHERE CLIENTE = '${numeroCliente}' AND EMAIL = '${email}' AND TIPO = 'FE'
+      `);
 
-    
+      if (Array.isArray(existe) && existe.length > 0) continue;
 
-    const existe = await conn.query(checkSql);
+      await conn.query(`
+        INSERT INTO EMAILSCLTE (CLIENTE, TIPO, EMAIL)
+        VALUES ('${numeroCliente}', 'FE', '${email}')
+      `);
 
-    if (Array.isArray(existe) && existe.length > 0) return;
-
-    const sql = `
-      INSERT INTO EMAILSCLTE (CLIENTE, TIPO, EMAIL)
-      VALUES (
-        '${numeroCliente}',
-        'FE',
-        '${email}'
-      )
-    `;
-
-    await conn.query(sql);
-
-    console.log("✅ EMAIL INSERTADO:", email);
-  } catch (err: any) {
-    console.error("💥 ERROR INSERT EMAIL", err);
-    throw err;
+      console.log("✅ EMAIL INSERTADO:", email);
+    } catch (err: any) {
+      console.error("💥 ERROR INSERT EMAIL", email, err?.message || err);
+      throw err;
+    }
   }
 }
 

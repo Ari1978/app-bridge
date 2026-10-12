@@ -37,13 +37,20 @@ app.listen(env.port, () => {
 const API_URL = process.env.ASMEL_API_URL;
 const TOKEN = process.env.ASMEL_API_TOKEN;
 
+// 🔥 SOLO ESTO AGREGAMOS (no rompe nada)
+let running = false;
+
 setInterval(async () => {
+  if (running) return; // evita superposición
+
+  running = true;
+
   try {
     const res = await axios.get(`${API_URL}/api/bridge/sync-request`, {
       headers: {
         Authorization: `Bearer ${TOKEN}`,
       },
-      timeout: 5000,
+      timeout: 30000, // más tolerante (Render + local)
     });
 
     if (!res.data?.requested) return;
@@ -59,12 +66,14 @@ setInterval(async () => {
         headers: {
           Authorization: `Bearer ${TOKEN}`,
         },
-      },
+        timeout: 30000,
+      }
     );
 
     logger.info("✅ Sync manual completada");
   } catch (error: any) {
     logger.error("❌ Error consultando sync-request", error?.message);
+  } finally {
+    running = false; // SIEMPRE libera
   }
 }, 5000);
-

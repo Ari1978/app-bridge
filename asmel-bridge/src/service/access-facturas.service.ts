@@ -45,7 +45,7 @@ async function getNextIdFactura(conn: any): Promise<number> {
   return next;
 }
 
-function getLetraFactura(condicion: string): string {
+/*function getLetraFactura(condicion: string): string {
   const c = (condicion || "").toLowerCase().trim();
 
   switch (c) {
@@ -65,7 +65,7 @@ function getLetraFactura(condicion: string): string {
     default:
       return "B";
   }
-}
+}*/
 
 // ======================
 // INSERT FACTURA (FC)
@@ -79,61 +79,63 @@ export async function insertarFacturaAccess(
     const cliente = formatCliente(factura.empresa.numeroCliente);
     const fecha = formatAccessDate(new Date());
 
+    // 🔥 NO ROMPO TU CHECK, solo dejo de depender del comprobante
     const check = await conn.query(`
-      SELECT COMPROBANTE 
-      FROM FC 
-      WHERE COMPROBANTE = '${factura.numero}'
+      SELECT IDFC
+      FROM FC
+      WHERE CLIENTE = '${cliente}'
+      AND FECHADEALTA = #${fecha}#
     `);
 
     if (Array.isArray(check) && check.length > 0) {
-      console.log("⚠️ FACTURA YA EXISTE:", factura.numero);
+      console.log("⚠️ FACTURA YA EXISTE (MISMO CLIENTE/FECHA)");
       return;
     }
 
     const resultMax = await conn.query(`
-  SELECT MAX(IDFC) as maxId FROM FC
-`);
+      SELECT MAX(IDFC) as maxId FROM FC
+    `);
 
     const idfc = (resultMax?.[0]?.maxId || 0) + 1;
 
-    const condicion = factura.empresa.condicionIva ?? "consumidor_final";
-    const letra = getLetraFactura(condicion);
+    //const condicion = factura.empresa.condicionIva ?? "consumidor_final";
+    //const letra = getLetraFactura(condicion);
 
-    // 🔥 RECIÉN ACÁ INSERTÁS
+    // 🔥 SOLO QUITÉ COMPROBANTE
     const sql = `
-      INSERT INTO FC (
-  IDFC,
-  SISTEMA,
-  CLIENTE,
-  CODMOV,
-  CONDVTA,
-  MONEDAORIG,
-  MONEDAEMIS,
-  VENDEDOR,
-  OPERACION,
-  FECHADEALTA,
-  FECHAFACTURA,
-  LETRA,
-  COMPROBANTE
-) VALUES (
-  ${idfc},
-  'AP',
-  '${cliente}',
-  'FE',
-  '01',
-  'P',
-  'P',
-  '000',
-  '01',
-  #${fecha}#,
-  #${fecha}#,
-  '${letra}',
-  '${factura.numero}'
-)    `;
+  INSERT INTO FC (
+    IDFC,
+    SISTEMA,
+    CLIENTE,
+    CODMOV,
+    CONDVTA,
+    MONEDAORIG,
+    MONEDAEMIS,
+    VENDEDOR,
+    OPERACION,
+    FECHADEALTA
+  ) VALUES (
+    ${idfc},
+    'AP',
+    '${cliente}',
+    'FE',
+    '01',
+    'P',
+    'P',
+    '000',
+    '01',
+    #${fecha}#
+  )
+`;
 
-    console.log("🚀 INSERT FC:", factura.numero);
+    console.log("🚀 INSERT FC (SIN COMPROBANTE):", factura.numero);
 
     await conn.query(sql);
+    await conn.query(`
+  UPDATE FC
+  SET LETRA = ''
+  WHERE IDFC = ${idfc}
+`);
 
     console.log("✅ IDFC:", idfc);
 

@@ -31,60 +31,86 @@ export async function syncNow(): Promise<void> {
     logger.info("🔥 Conectado a Access");
 
     // =========================
+    // 🔥 LEER ESTADO (onlyId)
+    // =========================
+    let onlyId: string | null = null;
+
+    try {
+      const res = await fetch(
+        `${process.env.ASMEL_API_URL}/api/bridge/sync-request`
+      );
+      const data = await res.json();
+      onlyId = data.onlyId || null;
+    } catch (err) {
+      logger.warn("⚠️ No se pudo obtener sync-request");
+    }
+
+    // =========================
     // 🧾 EMPRESAS
     // =========================
-    const empresas = await getEmpresasPendientes();
+    if (!onlyId) {
+      const empresas = await getEmpresasPendientes();
 
-    logger.info(`📦 Empresas pendientes: ${empresas.length}`);
+      logger.info(`📦 Empresas pendientes: ${empresas.length}`);
 
-    for (const empresa of empresas) {
-      try {
-        await insertarClienteAccess(conn, empresa);
-        await insertarEmailClienteAccess(conn, empresa);
+      for (const empresa of empresas) {
+        try {
+          await insertarClienteAccess(conn, empresa);
+          await insertarEmailClienteAccess(conn, empresa);
 
-        // 🔥 FIX REAL: usar ID de Mongo
-        const empresaId = empresa.id ? String(empresa.id) : undefined;
+          const empresaId = empresa.id ? String(empresa.id) : undefined;
 
-        if (!empresaId) {
-          logger.warn("⚠️ empresaId inválido, no se marca como sincronizada");
-        } else {
-          await marcarEmpresaSincronizada(empresaId);
+          if (!empresaId) {
+            logger.warn("⚠️ empresaId inválido, no se marca como sincronizada");
+          } else {
+            await marcarEmpresaSincronizada(empresaId);
+          }
+
+          logger.info("✅ Empresa OK", {
+            empresaId,
+            numeroCliente: empresa.numeroCliente,
+          });
+        } catch (error: any) {
+          logger.error("❌ Error empresa", {
+            empresaId: empresa.id,
+            error: error?.message || error,
+          });
         }
-
-        logger.info("✅ Empresa OK", {
-          empresaId,
-          numeroCliente: empresa.numeroCliente,
-        });
-      } catch (error: any) {
-        logger.error("❌ Error empresa", {
-          empresaId: empresa.id,
-          error: error?.message || error,
-        });
       }
+    } else {
+      logger.info("🚀 Sync individual → no se recorren empresas");
     }
 
     // =========================
     // 🧾 FACTURAS
     // =========================
-    const facturas = await getFacturasPendientes();
 
-    logger.info(`🧾 Facturas pendientes: ${facturas.length}`);
+    let facturas = await getFacturasPendientes();
+
+    if (onlyId) {
+      facturas = facturas.filter(
+        (f) => String(f.id) === String(onlyId)
+      );
+
+      logger.info("🎯 Sync individual", {
+        onlyId,
+        total: facturas.length,
+      });
+    }
+
+    logger.info(`🧾 Facturas a exportar: ${facturas.length}`);
 
     for (const factura of facturas) {
       try {
-        // 🔥 asegurar cliente SIEMPRE
         await insertarClienteAccess(conn, factura.empresa);
         await insertarEmailClienteAccess(conn, factura.empresa);
 
-        // 🔥 cabecera
         const idfc = await insertarFacturaAccess(conn, factura);
 
-        // 🔥 FIX SOLO TIPADO
         if (idfc === undefined) continue;
 
         await insertarItemsFacturaAccess(conn, idfc, factura);
 
-        // 🔥 marcar exportada
         await marcarFacturaExportada(String(factura.id));
 
         logger.info("✅ Factura OK", {
@@ -110,6 +136,18 @@ export async function syncNow(): Promise<void> {
       }
     } catch (err) {
       logger.error("Error cerrando conexión", err);
+    }
+
+    // 🔥 limpiar estado SIEMPRE
+    try {
+      await fetch(
+        `${process.env.ASMEL_API_URL}/api/bridge/sync-request/clear`,
+        {
+          method: "POST",
+        }
+      );
+    } catch (err) {
+      logger.warn("⚠️ No se pudo limpiar sync-request");
     }
 
     running = false;

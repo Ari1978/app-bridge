@@ -10,8 +10,18 @@ const api = axios.create({
   },
 });
 
+export type DestinatarioDto = {
+  email: string;
+  nombre?: string;
+  facturacion: boolean;
+  examenes?: boolean;
+  visitas?: boolean;
+  consultorio?: boolean;
+  turnos?: boolean;
+};
+
 export type EmpresaSyncDto = {
-  id?: string; // 🔥 ahora opcional
+  id?: string;
   numeroCliente: string;
   razonSocial: string;
   direccion?: string;
@@ -19,8 +29,8 @@ export type EmpresaSyncDto = {
   provincia?: string;
   cuit?: string;
   telefono?: string;
-  emailFacturacion?: string;
   condicionIva?: string;
+  destinatarios?: DestinatarioDto[];
 };
 
 export type FacturaDetalleSyncDto = {
