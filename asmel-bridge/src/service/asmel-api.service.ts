@@ -10,16 +10,6 @@ const api = axios.create({
   },
 });
 
-export type DestinatarioDto = {
-  email: string;
-  nombre?: string;
-  facturacion: boolean;
-  examenes?: boolean;
-  visitas?: boolean;
-  consultorio?: boolean;
-  turnos?: boolean;
-};
-
 export type EmpresaSyncDto = {
   id?: string;
   numeroCliente: string;
@@ -30,7 +20,8 @@ export type EmpresaSyncDto = {
   cuit?: string;
   telefono?: string;
   condicionIva?: string;
-  destinatarios?: DestinatarioDto[];
+  // Mails de facturación separados por ";" (así los arma SanaMed).
+  emailFacturacion?: string;
 };
 
 export type FacturaDetalleSyncDto = {

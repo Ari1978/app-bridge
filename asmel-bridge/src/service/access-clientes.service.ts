@@ -156,30 +156,45 @@ export async function insertarEmailClienteAccess(
   empresa: EmpresaSyncDto,
 ): Promise<void> {
   const numeroCliente = formatNumeroCliente(empresa.numeroCliente);
-  const destinatarios = (empresa.destinatarios ?? []).filter((d) => d.facturacion);
 
-  for (const dest of destinatarios) {
-    const email = safe(cleanString(dest.email, 100), 100);
-    if (!email) continue;
+  // SanaMed manda los mails de facturación juntos, separados por ";" (formato
+  // de Access). EMAIL admite 100 caracteres: se guardan los mails enteros que
+  // entren, nunca uno cortado a la mitad.
+  const mails = (empresa.emailFacturacion ?? "")
+    .split(";")
+    .map((m) => cleanString(m, 100).trim())
+    .filter(Boolean);
 
-    try {
-      const existe = await conn.query(`
-        SELECT CLIENTE FROM EMAILSCLTE
-        WHERE CLIENTE = '${numeroCliente}' AND EMAIL = '${email}' AND TIPO = 'FE'
-      `);
-
-      if (Array.isArray(existe) && existe.length > 0) continue;
-
-      await conn.query(`
-        INSERT INTO EMAILSCLTE (CLIENTE, TIPO, EMAIL)
-        VALUES ('${numeroCliente}', 'FE', '${email}')
-      `);
-
-      console.log("✅ EMAIL INSERTADO:", email);
-    } catch (err: any) {
-      console.error("💥 ERROR INSERT EMAIL", email, err?.message || err);
-      throw err;
+  let lista = "";
+  for (const mail of mails) {
+    const siguiente = lista ? `${lista};${mail}` : mail;
+    if (siguiente.length > 100) {
+      console.warn("⚠️ EMAIL NO ENTRA EN ACCESS (máx 100):", numeroCliente, mail);
+      continue;
     }
+    lista = siguiente;
+  }
+
+  const email = safe(lista, 100);
+  if (!email) return;
+
+  try {
+    const existe = await conn.query(`
+      SELECT CLIENTE FROM EMAILSCLTE
+      WHERE CLIENTE = '${numeroCliente}' AND EMAIL = '${email}' AND TIPO = 'FE'
+    `);
+
+    if (Array.isArray(existe) && existe.length > 0) return;
+
+    await conn.query(`
+      INSERT INTO EMAILSCLTE (CLIENTE, TIPO, EMAIL)
+      VALUES ('${numeroCliente}', 'FE', '${email}')
+    `);
+
+    console.log("✅ EMAIL INSERTADO:", numeroCliente, email);
+  } catch (err: any) {
+    console.error("💥 ERROR INSERT EMAIL", email, err?.message || err);
+    throw err;
   }
 }
 

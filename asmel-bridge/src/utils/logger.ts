@@ -29,15 +29,28 @@ const baseLogger = winston.createLogger({
   ],
 });
 
+// Objetos se muestran como JSON (String() daba "[object Object]").
+function detalle(data: unknown): string {
+  if (data === undefined || data === null || data === "") return "";
+  if (typeof data === "object") {
+    try {
+      return JSON.stringify(data);
+    } catch {
+      return String(data);
+    }
+  }
+  return String(data);
+}
+
 // 👉 wrapper para no romper tu código actual
 export const logger = {
   info(message: string, data?: unknown) {
-  baseLogger.info(`${message} ${data ? String(data) : ""}`);
-},
-warn(message: string, data?: unknown) {
-  baseLogger.warn(`${message} ${data ? String(data) : ""}`);
-},
-error(message: string, data?: unknown) {
-  baseLogger.error(`${message} ${data ? String(data) : ""}`);
-},
+    baseLogger.info(`${message} ${detalle(data)}`);
+  },
+  warn(message: string, data?: unknown) {
+    baseLogger.warn(`${message} ${detalle(data)}`);
+  },
+  error(message: string, data?: unknown) {
+    baseLogger.error(`${message} ${detalle(data)}`);
+  },
 };
