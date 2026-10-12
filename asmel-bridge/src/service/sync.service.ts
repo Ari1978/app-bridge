@@ -14,6 +14,10 @@ import {
   insertarItemsFacturaAccess,
 } from "./access-facturas.service";
 import { logger } from "../utils/logger";
+import { env } from "../config/env";
+
+// SanaMed exige la clave del bridge en todas las rutas /api/bridge.
+const authHeaders = { Authorization: `Bearer ${env.asmelApiToken}` };
 
 let running = false;
 
@@ -37,12 +41,19 @@ export async function syncNow(): Promise<void> {
 
     try {
       const res = await fetch(
-        `${process.env.ASMEL_API_URL}/api/bridge/sync-request`
+        `${process.env.ASMEL_API_URL}/api/bridge/sync-request`,
+        { headers: authHeaders }
       );
+      if (!res.ok) {
+        throw new Error(`HTTP ${res.status}`);
+      }
       const data = await res.json();
       onlyId = data.onlyId || null;
     } catch (err) {
-      logger.warn("⚠️ No se pudo obtener sync-request");
+      logger.warn(
+        "⚠️ No se pudo obtener sync-request",
+        err instanceof Error ? err.message : err
+      );
     }
 
     // =========================
@@ -140,12 +151,16 @@ export async function syncNow(): Promise<void> {
 
     // 🔥 limpiar estado SIEMPRE
     try {
-      await fetch(
+      const res = await fetch(
         `${process.env.ASMEL_API_URL}/api/bridge/sync-request/clear`,
         {
           method: "POST",
+          headers: authHeaders,
         }
       );
+      if (!res.ok) {
+        logger.warn(`⚠️ No se pudo limpiar sync-request (HTTP ${res.status})`);
+      }
     } catch (err) {
       logger.warn("⚠️ No se pudo limpiar sync-request");
     }
