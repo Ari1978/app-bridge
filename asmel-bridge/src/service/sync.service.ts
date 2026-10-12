@@ -15,6 +15,10 @@ import {
 } from "./access-facturas.service";
 import { logger } from "../utils/logger";
 import { env } from "../config/env";
+import {
+  anotarCargadaEnAccess,
+  yaCargadaEnAccess,
+} from "./facturas-exportadas";
 
 // SanaMed exige la clave del bridge en todas las rutas /api/bridge.
 const authHeaders = { Authorization: `Bearer ${env.bridgeSecret}` };
@@ -113,16 +117,39 @@ export async function syncNow(): Promise<void> {
 
     for (const factura of facturas) {
       try {
+        const facturaId = String(factura.id);
+
+        // Ya cargada en Access en una corrida anterior (SanaMed no llegó a
+        // marcarla): no se vuelve a insertar, solo se marca.
+        const previa = yaCargadaEnAccess(facturaId);
+        if (previa) {
+          logger.warn("⚠️ Factura ya estaba en Access, solo se marca en SanaMed", {
+            numero: factura.numero,
+            idfc: previa.idfc,
+          });
+          await marcarFacturaExportada(facturaId);
+          continue;
+        }
+
         await insertarClienteAccess(conn, factura.empresa);
         await insertarEmailClienteAccess(conn, factura.empresa);
 
         const idfc = await insertarFacturaAccess(conn, factura);
 
-        if (idfc === undefined) continue;
-
         await insertarItemsFacturaAccess(conn, idfc, factura);
 
-        await marcarFacturaExportada(String(factura.id));
+        try {
+          anotarCargadaEnAccess(facturaId, idfc, factura.numero);
+        } catch (err) {
+          // Sin el registro local queda la marca de SanaMed como protección.
+          logger.error("❌ No se pudo anotar la factura en el registro local", {
+            numero: factura.numero,
+            idfc,
+            error: err instanceof Error ? err.message : err,
+          });
+        }
+
+        await marcarFacturaExportada(facturaId);
 
         logger.info("✅ Factura OK", {
           facturaId: factura.id,

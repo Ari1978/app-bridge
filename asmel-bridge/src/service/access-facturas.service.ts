@@ -74,23 +74,16 @@ async function getNextIdFactura(conn: any): Promise<number> {
 export async function insertarFacturaAccess(
   conn: any,
   factura: FacturaSyncDto,
-): Promise<number | void> {
+): Promise<number> {
   try {
     const cliente = formatCliente(factura.empresa.numeroCliente);
     const fecha = formatAccessDate(new Date());
 
-    // 🔥 NO ROMPO TU CHECK, solo dejo de depender del comprobante
-    const check = await conn.query(`
-      SELECT IDFC
-      FROM FC
-      WHERE CLIENTE = '${cliente}'
-      AND FECHADEALTA = #${fecha}#
-    `);
-
-    if (Array.isArray(check) && check.length > 0) {
-      console.log("⚠️ FACTURA YA EXISTE (MISMO CLIENTE/FECHA)");
-      return;
-    }
+    // Antes se salteaba si el cliente ya tenía una factura con la fecha de
+    // hoy: dos facturas distintas del mismo cliente exportadas el mismo día
+    // (ej. junio y septiembre) dejaban la segunda sin cargar y sin aviso.
+    // Los duplicados ahora se evitan con el registro local
+    // (facturas-exportadas.ts), que identifica cada factura de SanaMed.
 
     const resultMax = await conn.query(`
       SELECT MAX(IDFC) as maxId FROM FC

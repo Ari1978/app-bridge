@@ -3,3 +3,5 @@ dist
 .env
 .env.*
 npm-debug.log
+# Registro local de facturas ya cargadas en Access (propio de cada PC)
+data/
