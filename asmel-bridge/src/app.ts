@@ -35,7 +35,7 @@ app.listen(env.port, () => {
 });
 
 const API_URL = process.env.ASMEL_API_URL;
-const TOKEN = process.env.ASMEL_API_TOKEN;
+const TOKEN = env.bridgeSecret;
 
 // 🔥 SOLO ESTO AGREGAMOS (no rompe nada)
 let running = false;

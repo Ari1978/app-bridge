@@ -14,7 +14,8 @@ export const env = {
   port: Number(process.env.PORT || 3001),
 
   asmelApiUrl: required('ASMEL_API_URL'),
-  asmelApiToken: required('ASMEL_API_TOKEN'),
+  // Clave que SanaMed exige en /api/bridge (mismo valor que en Render).
+  bridgeSecret: required('BRIDGE_SECRET'),
 
   // ❌ lo dejamos pero ya no se usa
   accessDsn: process.env.ACCESS_DSN || '',

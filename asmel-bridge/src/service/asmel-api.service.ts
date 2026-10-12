@@ -5,7 +5,7 @@ const api = axios.create({
   baseURL: env.asmelApiUrl,
   timeout: 120000,
   headers: {
-    Authorization: `Bearer ${env.asmelApiToken}`,
+    Authorization: `Bearer ${env.bridgeSecret}`,
     'Content-Type': 'application/json',
   },
 });

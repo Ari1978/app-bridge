@@ -17,7 +17,7 @@ import { logger } from "../utils/logger";
 import { env } from "../config/env";
 
 // SanaMed exige la clave del bridge en todas las rutas /api/bridge.
-const authHeaders = { Authorization: `Bearer ${env.asmelApiToken}` };
+const authHeaders = { Authorization: `Bearer ${env.bridgeSecret}` };
 
 let running = false;
 
